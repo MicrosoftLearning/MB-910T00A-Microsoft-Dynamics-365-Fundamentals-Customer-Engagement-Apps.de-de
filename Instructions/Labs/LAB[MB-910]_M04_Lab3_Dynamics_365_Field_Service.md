@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Lab 4.3: Dynamics 365 Field Service Capstone-Lab'
-    module: 'Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren'
+  title: 'Lab 4.3: Dynamics 365 Field Service Capstone-Lab'
+  module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
+ms.openlocfilehash: f3a0b281cf2f6b342b789bffa977d57de8b9dcf6
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908905"
 ---
-
-Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
+<a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Modul 4: Grundlegende Informationen zu Dynamics 365 for Field Service
 ========================
 
-## Übungs-Lab 4.3 - Dynamics 365 Field Service Capstone-Lab
+## <a name="practice-lab-43---dynamics-365-field-service-capstone-lab"></a>Übungs-Lab 4.3 - Dynamics 365 Field Service Capstone-Lab
 
-## Übungsszenario
+## <a name="lab-scenario"></a>Übungsszenario
 
 Das Unternehmen ABC spezialisiert sich auf die Herstellung, den Vertrieb, die Installation und die Wartung von Sicherheitsausrüstung. Zu den Produkten des Unternehmens gehören Sicherheitskameras für Innen- und Außenbereiche, Feuchtigkeitssensoren, Brandmelder, Überwachungsdienste und mehr. 
 
@@ -37,11 +42,11 @@ Der Installationsprozess für die verkaufte Sicherheitsausrüstung hängt vom Ty
 
 - **Unternehmenskunden:** Installationen in Unternehmen können Monate dauern, und manchmal ist ein Projektmanager erforderlich, um den alltäglichen Betrieb zu koordinieren. Dieser Projektmanager erstellt Projektpläne, definiert Projektteams und plant den Einsatz von Ressourcen. 
 
-**Service und Support:**
+**Kundendienst und Support:**
 
 Im Anschluss an die Installation der Systeme bietet ABC seinen Kunden Supportservices an. Wenn bei einem Kunden ein Problem auftritt, kann er sich an den Kundendienst wenden. Ein Agent wird versuchen, das Problem gemeinsam mit dem Kunden remote zu lösen. Falls das Problem nicht remote gelöst werden kann, eskaliert der Support-Agent das Problem zu einem Arbeitsauftrag, der geplant und von einem qualifizierten Außendiensttechniker bearbeitet wird. 
 
-## Ziele
+## <a name="objectives"></a>Ziele
 
 Es gibt drei verschiedene Szenarien, in denen das Unternehmen ABC Techniker entsendet, um Arbeiten vor Ort beim Kunden zu erledigen. 
 
@@ -59,15 +64,15 @@ Vor Kurzem hat der Kunde „Active Transport, Inc.“ den Support wegen eines Pr
 
 - Arbeitsauftrag mit der mobilen App auflösen 
 
-## Übungsaufbau
+## <a name="lab-setup"></a>Lab-Einrichtung
 
   - **Geschätzte Dauer**: 45 Minuten
 
-## Anleitung
+## <a name="instructions"></a>Anweisungen
 
-## Übung 1: Anfrage erstellen und zu einem Arbeitsauftrag eskalieren 
+## <a name="exercise-1-create-a-case-and-escalate-to-a-work-order"></a>Übung 1: Anfrage erstellen und zu einem Arbeitsauftrag eskalieren 
 
-### Aufgabe 1: Anfragedatensatz erstellen
+### <a name="task-1-create-a-case-record"></a>Aufgabe 1: Anfragedatensatz erstellen
 
 1. Öffnen Sie die **Dynamics 365 Field Service**-Anwendung, falls noch nicht geschehen. 
 
@@ -77,21 +82,23 @@ Vor Kurzem hat der Kunde „Active Transport, Inc.“ den Support wegen eines Pr
 
 4. Vervollständigen Sie den Anfragedatensatz wie folgt:
 
-	- **Anfragetitel:** Kamera funktioniert nicht
+    - **Anfragetitel:** Kamera funktioniert nicht
 
-	- **Kunde:** Active Transport Inc.
+    - **Kunde:** Best For You Organics Company
 
-	- **Ursprung:** Telefon
+    - **Ursprung:** Telefon
+
+    Speichern Sie den Eintrag.
 
 5. Wählen Sie die Registerkarte **Außendienst** aus.
 
-6. Wählen Sie unter **Vorfalltyp** den Wert **Kamera funktioniert nicht** aus.
+6. Wählen Sie unter **Vorfalltyp** den Wert **Kamera funktioniert nicht** aus. (Neu erstellen)
 
 7. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Speichern und schließen** aus, um den Anfragedatensatz zu speichern und zu schließen. 
 
  
 
-### Aufgabe 2: Arbeitsauftrag manuell erstellen
+### <a name="task-2-manually-create-a-word-order"></a>Aufgabe 2: Arbeitsauftrag manuell erstellen
 
 Wir werden später zu Ihrem erstellten Anfragedatensatz zurückkehren. Zunächst werden wir uns ansehen, wie Sie einen Arbeitsauftrag manuell erstellen. 
 
@@ -103,13 +110,17 @@ Wir werden später zu Ihrem erstellten Anfragedatensatz zurückkehren. Zunächst
 
 3. Füllen Sie die Details des Arbeitsauftrags wie folgt aus:
 
-	- **Dienstkonto:** Bremsen und Zahnräder 
+    - **Dienstkonto:** Margie's Travel
 
-	- **Preisliste:** Standardpreisliste
+    - **Preisliste:** Office 365 US (Beispiel)
 
-	- **Primärer Vorfalltyp:** Lüfter ausgefallen
+    - **Arbeitsauftragstyp:** Dienst-
 
-	- **Steuerpflichtig:** Nein
+    - **Steuerpflichtig:** Keine
+
+    Speichern Sie den Datensatz, und weisen Sie den primären Vorfalltyp zu.
+
+    - **Primärer Vorfalltyp:** Lüfter ausgefallen (Neu erstellen)
 
 4. Notieren Sie sich die Arbeitsauftragsnummer, um später überprüfen zu können, ob Sie den richtigen Arbeitsauftrag bearbeiten. 
 
@@ -119,15 +130,15 @@ Wir werden später zu Ihrem erstellten Anfragedatensatz zurückkehren. Zunächst
 
 7. Konfigurieren Sie in den **Einstellungen** die folgenden Zeiteinstellungen:
 
-	– **Zeit von zugesagt:** Morgen um 9:00 Uhr
+    - **Zeit von zugesagt:** Morgen um 9:00 Uhr
 
-	– **Zeit bis zugesagt:** Morgen um 11:00 Uhr
+    - **Zeit bis zugesagt:** Heute um 11:00 Uhr
 
 8. Wählen Sie **Speichern und schließen** aus, um Ihre Änderungen zu speichern und den neuen Arbeitsauftrag zu schließen.
 
  
 
-### Aufgabe 3: Arbeitsauftrag aus einer Anfrage heraus erstellen
+### <a name="task-3-generate-a-work-order-from-a-case"></a>Aufgabe 3: Arbeitsauftrag aus einer Anfrage heraus erstellen
 
 Sie können Arbeitsaufträge auch erstellen, indem Sie Anfragedatensätze eskalieren. In diesem Beispiel eskalieren wir den zuvor erstellten Anfragedatensatz „Kamera funktioniert nicht“. 
 
@@ -139,43 +150,33 @@ Sie können Arbeitsaufträge auch erstellen, indem Sie Anfragedatensätze eskali
 
 3. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **In Arbeitsauftrag konvertieren** aus. 
 
-4. Warten Sie, bis der Arbeitsauftrag erstellt wurde, und klicken Sie im Popupbildschirm auf die Schaltfläche **OK**, um die Details des Arbeitsauftrags anzuzeigen. 
-
-5. Wählen Sie die Registerkarte **Services** aus, und vergewissern Sie sich, dass die Services **Systemintegrität überprüfen** und **Bewegungsspielraum überprüfen** zum Arbeitsauftrag hinzugefügt wurden. **HINWEIS:** Falls diese Services nicht angezeigt werden, drücken Sie die F5-Taste, um Ihren Bildschirm zu aktualisieren. 
-
-6. Wählen Sie die Registerkarte **Serviceaufgabe** aus, und vergewissern Sie sich, dass vier Aufgaben hinzugefügt wurden.
+4. Nachdem der Arbeitsauftrag erstellt wurde, wählen Sie die Schaltfläche **OK** im Popupbildschirm aus, um die Details des Arbeitsauftrags anzuzeigen. 
 
  
 
 Beide neu erstellten Arbeitsaufträge können jetzt geplant werden. 
 
-## Übung 2: Elemente mit Dynamics 365 Field Service planen  
+## <a name="exercise-2-schedule-items-with-dynamics-365-field-service"></a>Übung 2: Elemente mit Dynamics 365 Field Service planen  
 
-### Aufgabe 1: Zeitplanung direkt aus einem Arbeitsauftrag
+### <a name="task-1-schedule-directly-from-a-work-order"></a>Aufgabe 1: Zeitplanung direkt aus einem Arbeitsauftrag
 
 1. Klicken Sie im linken Navigationsbereich auf **Zeitplanübersicht**.
 
 2. Legen Sie oben rechts auf dem Bildschirm unter **Neue Zeitplanübersicht** die Option **EIN** fest. 
 
-3. Geben Sie den Namen Ihres Benutzerkontos in das Suchfeld **Ressourcen suchen** ein (Ihr Ressourceneintrag sollte angezeigt werden).
+3. Geben Sie „Aidan Knaggs“ in das Suchfeld **Ressourcen suchen** ein. 
 
 4. Wählen Sie unten auf dem Bildschirm im Anforderungsbereich die Option **Nicht geplante Arbeitsaufträge** aus.  (Falls der Anforderungsbereich nicht angezeigt wird, wählen Sie den Pfeil am unteren Bildschirmrand aus, um ihn zu erweitern). 
 
-5. Suchen Sie den Arbeitsauftrag für **Active Transport**, den Sie aus dem Anfragedatensatz erstellt haben (Verwenden Sie ggf. die Arbeitsauftragsnummer). 
+5. Suchen Sie den Arbeitsauftrag für **Munson's Pickles**, den Sie aus dem Anfragedatensatz erstellt haben (Verwenden Sie ggf. die Arbeitsauftragsnummer). 
 
-6. Ziehen Sie den Datensatz für **Active Transport** und platzieren Sie ihn in einem offenen Zeitfenster für Ihren Benutzerdatensatz. 
+6. Ziehen Sie den Datensatz für **Munson's Pickles** und platzieren Sie ihn in einem offenen Zeitfenster für Aidens Kontaktdatensatz. 
 
 7. Es kann vorkommen, dass Sie einen Arbeitsauftrag aufgrund von Konflikten im Zusammenhang mit Technikern oder anderen Ressourcen umbuchen müssen. Dazu können Disponenten die Zeitplanübersicht verwenden. 
 
-8. Klicken Sie in der Zeitplanübersicht auf das Feld „Ressourcen suchen“ (über der Spalte „Ressourcenname“), geben Sie **Brady** ein, und suchen Sie den Arbeitsauftrag, für den **Brady Hannon** heute eingeplant ist. 
-
-9. **Klicken Sie mit der rechten Maustaste** auf das geplante Element. Wählen Sie im nächsten Menü die Option **Neu zuweisen** aus. Klicken Sie in das Suchfeld, und wählen Sie Ihren Ressourcendatensatz aus.
-
  
 
- 
-
-### Aufgabe 2: Planen mit der Zeitplanübersicht
+### <a name="task-2-schedule-with-the-schedule-board"></a>Aufgabe 2: Planen mit der Zeitplanübersicht
 
 1. Klicken Sie im linken Navigationsbereich auf **Zeitplanübersicht**.
 
@@ -185,10 +186,10 @@ Beide neu erstellten Arbeitsaufträge können jetzt geplant werden.
 
 4. Suchen Sie den Arbeitsauftrag für **Active Transport**, den Sie aus dem Anfragedatensatz erstellt haben (Verwenden Sie ggf. die Arbeitsauftragsnummer). 
 
-5. Ziehen Sie den Datensatz für **Active Transport** und platzieren Sie ihn in einem offenen Zeitfenster für Ihren Benutzerdatensatz. 
+5. Ziehen Sie den Datensatz für **Active Transport** und platzieren Sie ihn in einem offenen Zeitfenster für Ihren Benutzerdatensatz. Der Text wird in grün angezeigt, wenn das Zeitfenster mit dem bevorzugten Zeitfenster des Kunden übereinstimmt.
 
 6. Es kann vorkommen, dass Sie einen Arbeitsauftrag aufgrund von Konflikten im Zusammenhang mit Technikern oder anderen Ressourcen umbuchen müssen. Dazu können Disponenten die Zeitplanübersicht verwenden. 
 
-7. Klicken Sie in der Zeitplanübersicht auf das Feld „Ressourcen suchen“ (über der Spalte „Ressourcenname“), geben Sie **Brady** ein, und suchen Sie den Arbeitsauftrag, für den **Brady Hannon** heute eingeplant ist. 
+7. Wählen Sie das Feld „Ressourcen suchen“ in der Zeitplanübersicht (direkt über der Spalte „Ressourcenname“) aus, geben Sie **Brady** ein, und suchen Sie den Arbeitsauftrag, der im Verlauf des heutigen Tages für **Brady Hannon** geplant ist. 
 
-8. **Klicken Sie mit der rechten Maustaste** auf das geplante Element. Wählen Sie im nächsten Menü die Option **Ersatzressource** aus. Klicken Sie in das Such- und Auswahlfeld, wählen Sie Ihren Ressourcendatensatz aus, und wählen Sie dann **Neu zuweisen** aus.
+8. **Klicken Sie mit der rechten Maustaste** auf das geplante Element. Wählen Sie im nächsten Menü die Option **Ersatzressource** aus. Wählen Sie das Auswahl-/Suchfeld aus, wählen Sie Ihren Ressourcendatensatz aus, und wählen Sie **Neu zuweisen** aus.

@@ -1,39 +1,44 @@
 ---
 lab:
-    title: 'Lab 3.2: Anfragen in Dynamics 365 Customer Service erstellen und verwalten'
-    module: 'Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren'
+  title: 'Lab 3.2: Anfragen in Dynamics 365 Customer Service erstellen und verwalten'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 246ffc81d2edbffcfc809e242757784acdcccb0d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908912"
 ---
-
-Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Modul 3: Grundlegende Informationen zu Dynamics 365 for Customer Service
 ========================
 
-## Übungs-Lab 3.2 - Anfragen in Dynamics 365 Customer Service erstellen und verwalten
+## <a name="practice-lab-32---create-and-manage-cases-in-dynamics-365-customer-service"></a>Übungs-Lab 3.2 - Anfragen in Dynamics 365 Customer Service erstellen und verwalten
 
-## Übungsaufbau
+## <a name="lab-setup"></a>Lab-Einrichtung
 
   - **Geschätzte Dauer**: 10 Minuten
 
-## Anleitung
+## <a name="instructions"></a>Anweisungen
 
 1. Öffnen Sie die **Dynamics 365 Customer Service Hub**-Anwendung, falls noch nicht geschehen. 
 
 2. Wählen Sie **Anfragen** in der Navigation auf der linken Seite des Bildschirms aus. 
 
-3. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Neu** aus, um einen neuen Anfragedatensatz zu erstellen.
+3. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Neuer Fall** aus, um einen neuen Anfragedatensatz zu erstellen.
 
 4. Vervollständigen Sie den Anfragedatensatz wie folgt:
 
-	- **Anfragetitel:** ‎Artikel beschädigt geliefert – Ihre Initialen
+    - **Anfragetitel:** ‎Artikel beschädigt geliefert – Ihre Initialen
 
-	- **Kunde:** Alpine Ski House (Beispiel)
+    - **Kunde:** Alpine Ski House
 
-	- **Ursprung:** Telefon
+    - **Ursprung:** Telefon
 
 5. Wählen Sie die Schaltfläche **Speichern** aus, um den Datensatz zu speichern, und lassen Sie ihn geöffnet. 
 
-6. Wählen Sie unter **Telefon-zu-Anfrage-Prozess** die Phase **Identifizieren** aus, und legen Sie im Feld **Kontakt suchen** den Wert **Dwayne Elijah** fest. 
+6. Wählen Sie unter **Telefon-zu-Anfrage-Prozess** die Phase **Identifizieren** aus, und geben Sie im Feld **Kontakt suchen** den Wert **Alfonso Albritton** ein. 
 
-7. Klicken Sie auf das **X** im Flyout-Fenster für die Phase **Identifizieren**, um das Fenster zu entfernen, damit Sie Ihre Arbeit fortsetzen können. 
+7. Wählen Sie das **X** im Fenster für die Phase **Identifizieren** aus, um das Fenster zu schließen und Ihre Arbeit fortsetzen zu können. 
 
 8. Wählen Sie auf der **Datensatzzeitachse** das **Pluszeichensymbol** aus, um eine neue Aktivität zu erstellen. 
 
@@ -41,13 +46,13 @@ Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
 
 10. Legen Sie im Feld **Betreff** den Wert **Patrick zurückrufen – Ihre Initialen** fest, und lassen Sie die restlichen Felder unverändert. 
 
-11. Klicken Sie auf die Schaltfläche **Speichern und schließen**. 
+11. Wählen Sie **Speichern und schließen** aus. 
 
 12. Wählen Sie unter **Telefon-zu-Anfrage-Prozess** die Phase **Identifizieren** aus.
 
-13. Klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Recherchieren** zu gelangen. 
+13. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Recherche** zu gelangen. 
 
-14. Klicken Sie auf das **X** im Flyout-Fenster für die Phase **Recherchieren**, um das Fenster zu entfernen, damit Sie Ihre Arbeit fortsetzen können. 
+14. Wählen Sie das **X** im Fenster für die Phase **Recherche** aus, um das Fenster zu schließen und Ihre Arbeit fortsetzen zu können. 
 
 15. Suchen Sie auf der rechten Seite des Anfragebildschirms das Buchsymbol **Wissen**, und wählen Sie es aus (Das Symbol befindet sich direkt unter dem Schraubenschlüsselsymbol).
 

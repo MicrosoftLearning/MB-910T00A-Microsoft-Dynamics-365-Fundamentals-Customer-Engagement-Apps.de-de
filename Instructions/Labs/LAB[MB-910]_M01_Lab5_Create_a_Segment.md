@@ -1,27 +1,33 @@
 ---
 lab:
-    title: 'Lab 1.5: Segment in Dynamics 365 Marketing erstellen'
-    module: 'Modul 1: Mehr über die Grundlagen von Dynamics 365 Marketing erfahren'
+  title: 'Lab 1.5: Segment in Dynamics 365 Marketing erstellen'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 5f75e433fe8d38d32000c7de20878e3b471f0fca
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908858"
 ---
-
-Modul 1: Mehr über die Grundlagen von Dynamics 365 Marketing erfahren
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Modul 1: Grundlegende Informationen zu Dynamics 365 for Marketing
 ========================
 
-## Übungs-Lab 1.5 - Segment in Dynamics 365 Marketing erstellen
+## <a name="practice-lab-15---create-a-segment-in-dynamics-365-marketing"></a>Übungs-Lab 1.5 - Segment in Dynamics 365 Marketing erstellen
 
-## Ziele
+## <a name="objectives"></a>Ziele
 
 In dieser Übung erfahren Sie, wie Sie Kundensegmente erstellen können, die auf bestimmte Kontakte basierend auf allgemeinen demografischen Informationen wie Wohnort oder Interessen abzielen. Sie werden häufig Kundensegmente in Dynamics 365 Marketing erstellen, da diese Segmente für wichtige Marketingaktivitäten wie die Definition der Zielkontakte in Kundenkontaktverläufen verwendet werden.
 
-## Übungsaufbau
+## <a name="lab-setup"></a>Lab-Einrichtung
 
   - **Geschätzte Dauer**: 20 Minuten
 
-## Anleitung
+## <a name="instructions"></a>Anweisungen
 
-1. Wählen Sie links im Navigationsbereich die Option „Segmente“ unter „Marketing“ aus. 
 
-2. Wählen Sie auf der Befehlsleiste **Neu** aus.
+1. Öffnen Sie die Dynamics Marketing-Anwendung. Der Bereich **Marketing** sollte ausgewählt sein. Wählen Sie **Segmente** unter **Kunden** aus.
+
+2. Wählen Sie in der Befehlsleiste **Neu**.
 
 3. Wählen Sie im Dropdownmenü die Option **Neues dynamisches Segment** aus.
 
@@ -29,15 +35,15 @@ In dieser Übung erfahren Sie, wie Sie Kundensegmente erstellen können, die auf
 
 5. Wählen Sie **Abfrageblock hinzufügen** aus, um eine Abfrage für die Kontakttabelle zu erstellen. 
 
-6. Wählen Sie den inaktiven Text **Attribut auswählen** aus. 
+6. Wählen Sie das Steuerelement **Attribut auswählen** aus.
 
-7. Geben Sie dann „Stadt“ ein, um die Liste zu filtern, und wählen Sie **Adresse 1: Ort** in der Liste aus.
+7. Geben Sie „Ort“ ein, um die Liste zu filtern, und wählen Sie **Adresse 1: Ort** aus.
 
 8. Belassen Sie die nächste Dropdownliste auf **Ist gleich**. 
 
-9. Wählen Sie die dritte Dropdownliste aus, die den inaktiven Text **Text eingeben** enthält, und geben Sie **Redmond** ein.
+9. Klicken Sie auf **Eingeben, um zu suchen**, und geben Sie **Chicago** ein.
 
-10. Klicken Sie auf das Feld **Name** am oberen Rand der Abfrage, um es auszuwählen, und geben Sie **Fargo Contacts – Ihre Initialen** ein.
+10. Wählen Sie das Feld **Name** oben in der Suche aus, und geben Sie **Kontakte in Chicago – Ihre Initialen** ein.
 
 11. Wählen Sie in der Befehlsleiste die Option **Speichern** aus, um Ihr Segment zu speichern.
 
@@ -45,4 +51,4 @@ In dieser Übung erfahren Sie, wie Sie Kundensegmente erstellen können, die auf
 
 13. Warten Sie etwa eine Minute, und klicken Sie dann in der Befehlsleiste auf **Aktualisieren**, um die Seite zu aktualisieren. 
 
-14. Daraufhin sollte eine neue Registerkarte **Mitglieder** hinzugefügt werden. 
+14. Daraufhin sollte eine neue Registerkarte **Mitglieder** hinzugefügt werden. Jackson Anderson wird aufgeführt.

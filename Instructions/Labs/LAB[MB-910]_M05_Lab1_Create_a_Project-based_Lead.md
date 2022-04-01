@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Lab 5.1: Erstellen eines projektbasierten Leads'
-    module: 'Modul 5: Mehr über die Grundlagen von Dynamics 365 Project Operations erfahren'
+  title: 'Lab 5.1: Erstellen eines projektbasierten Leads'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: b5056adaef7064be8a62dcd85c2b1e0fb81b986a
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908827"
 ---
-
-Modul 5: Mehr über die Grundlagen von Dynamics 365 Project Operations erfahren
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Modul 5 Grundlagen von Dynamics 365 Project Operations erlernen
 ========================
 
-## Übungs-Lab 5.1: Erstellen eines projektbasierten Leads
+## <a name="practice-lab-51-create-a-project-based-lead"></a>Übungs-Lab 5.1: Erstellen eines projektbasierten Leads
 
-## Übungsszenario
+## <a name="lab-scenario"></a>Übungsszenario
 
 Das Unternehmen ABC spezialisiert sich auf die Herstellung, den Vertrieb, die Installation und die Wartung von Sicherheitsausrüstung. Zu den Produkten des Unternehmens gehören Sicherheitskameras für Innen- und Außenbereiche, Feuchtigkeitssensoren, Brandmelder, Überwachungsdienste und mehr. 
 
@@ -37,10 +42,10 @@ Der Installationsprozess für die verkaufte Sicherheitsausrüstung hängt vom Ty
 
 - **Unternehmenskunden:** Installationen in Unternehmen können Monate dauern, und manchmal ist ein Projektmanager erforderlich, um den alltäglichen Betrieb zu koordinieren. Dieser Projektmanager erstellt Projektpläne, definiert Projektteams und plant den Einsatz von Ressourcen. 
 
-**Service und Support:**
+**Kundendienst und Support:**
 
 Im Anschluss an die Installation der Systeme bietet ABC seinen Kunden Supportservices an. Wenn bei einem Kunden ein Problem auftritt, kann er sich an den Kundendienst wenden. Ein Agent wird versuchen, das Problem gemeinsam mit dem Kunden remote zu lösen. Falls das Problem nicht remote gelöst werden kann, eskaliert der Support-Agent das Problem zu einem Arbeitsauftrag, der geplant und von einem qualifizierten Außendiensttechniker bearbeitet wird. 
-## Ziele
+## <a name="objectives"></a>Ziele
 
 Die ABC-Vertriebsmitarbeiter für Unternehmen konzentrieren sich auf Kunden, die spezielle und maßgeschneiderte Unternehmenslösungen für ihre Sicherheit brauchen. Daher umfassen Unternehmensverkäufe oft mehrere Standorte, die miteinander kommunizieren, und für den Projektabschluss sind oft mehrere Ressourcen erforderlich. Die Vertriebszyklen für Unternehmensverkäufe dauern bei ABC oft viele Monate dauern, und die Ausführung ist sehr komplex. 
 
@@ -52,25 +57,29 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 - Einen Projektlead in Dynamics 365 Sales eingeben
 
-## Übungsaufbau
+## <a name="lab-setup"></a>Lab-Einrichtung
 
   - **Geschätzte Dauer**: 10 Minuten
 
-## Anleitung
+## <a name="instructions"></a>Anweisungen
 
-## Übung 1: Erstellen eines projektbasierten Leads
+## <a name="exercise-1-create-a-project-based-lead"></a>Übung 1: Erstellen eines projektbasierten Leads
 
-### Aufgabe 1: Neuen Lead erstellen
+### <a name="task-1-create-a-new-lead"></a>Aufgabe 1: Neuen Lead erstellen
 
-1. Öffnen Sie einen InPrivate-Browser, und navigieren Sie zu [Https://home.Dynamics.com](https://home.dynamics.com/), falls noch nicht geschehen. 
+1. Öffnen Sie bei Bedarf einen InPrivate-Browser, und navigieren Sie zu [Https://home.Dynamics.com](https://home.dynamics.com/). 
 
 2. Melden Sie sich mit den Benutzeranmeldeinformationen an, die Sie vom Kursleiter erhalten haben, wenn Sie dazu aufgefordert werden. 
 
-3. Wählen Sie **Project Operations** in der Liste der angezeigten Anwendungen aus. **(Hinweis:** Der Eintrag kann auch als „Projekt-Service“ angezeigt werden)
+3. Wählen Sie **Projekt-Service** in der Liste der angezeigten Anwendungen aus. 
 
-4. Wählen Sie den Bereich **Projekte** in der Navigation auf der linken Seite des Bildschirms aus. 
+4. Falls „Projekt-Service“ nicht angezeigt wird, besuchen Sie trials.dynamics.com, und installieren Sie die Testversion von Projekt-Service. 
 
-5. Wählen Sie im nächsten Menü die Option **Vertrieb** aus.
+    - Geschäftliche E-Mail-Adresse: E-Mail des Mandanten. 
+
+    - Telefonnummer: Mobiltelefon
+
+5. Wählen Sie den Bereich **Vertrieb** in der Navigation auf der linken Seite des Bildschirms aus. 
 
 6. Wählen Sie **Leads** in der Navigation aus. 
 
@@ -82,57 +91,57 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 10. Vervollständigen Sie Ihren neuen Leaddatensatz wie folgt:
 
-	- **Thema:** Vollständige globale Implementierung – Ihre Initialen
+    - **Thema:** Vollständige globale Implementierung – Ihre Initialen
 
-	- **Typ:** Arbeitsbasiert
+    - **Typ:** Arbeitsbasiert
 
-	- **Vorname:** Jean
+    - **Vorname:** Jean
 
-	- **Nachname:** Anderson – Ihre Initialen
+    - **Nachname:** Anderson – Ihre Initialen
 
-	- **Telefonnummer (geschäftlich):** 888 555-8855
+    - **Telefon (geschäftlich):** 888 555-8855
 
-	- **E-Mail:** jean@sample.com
+    - **E-Mail:** jean@sample.com
 
-	- **Unternehmen:** Consolidated Sample – Ihre Initialen
+    - **Unternehmen:** Consolidated Sample – Ihre Initialen
 
-	- **Straße 1:** 219 91<sup data-htmlnode="">st</sup> Ave N
+    - **Straße 1:** 219 91<sup data-htmlnode="">st</sup> Ave N
 
-	- **Ort:** Seattle
+    - **Ort:** Seattle
 
-	- **Bundesland/Kanton:** WA
+    - **Bundesland/Kanton:** WA
 
-	- **Postleitzahl:** 98001 
+    - **Postleitzahl:** 98001 
 
 11. Wählen Sie die Schaltfläche **Speichern** auf der Befehlsleiste aus, um den neuen Lead zu speichern, und lassen Sie ihn offen.
 
-12. Beachten Sie den Geschäftsprozessflow **Lead für Verkaufschance** am Anfang des Datensatzes. Klicken Sie auf **Phase qualifizieren**, um diese Option auszuwählen. Vervollständigen Sie die Phase wie folgt:
+12. Beachten Sie den Geschäftsprozessflow **Lead für Verkaufschance** am Anfang des Datensatzes. Wählen Sie die Phase **Qualifizieren** aus. Vervollständigen Sie die Phase wie folgt:
 
-	- **Einkaufszeitrahmen**: Dieses Quartal
+    - **Einkaufszeitrahmen:** Dieses Quartal
 
-	- **Geschätztes Budget:** 25.000  
+    - **Geschätztes Budget:** 25.000  
 
-	- **Kaufvorgang:** Komitee
+    - **Kaufvorgang:** Komitee
 
-	- **Entscheidungsträger identifizieren:** Abgeschlossen
+    - **Entscheidungsträger identifizieren:** Abgeschlossen
 
-13. Klicken Sie auf das **X** im Fenster für die Phase, um das Fenster zu schließen. 
+13. Wählen Sie das **X** im Fenster für die Phase aus, um das Fenster zu schließen. 
 
-14. Wechseln Sie zu **Datensatzzeitachse** in der Mitte des Bildschirms, und klicken Sie auf das **Pluszeichensymbol**, um eine neue Aktivität hinzuzufügen. 
+14. Wechseln Sie zur **Datensatzzeitachse** in der Mitte des Bildschirms, und wählen Sie das **Pluszeichensymbol** aus, um eine neue Aktivität hinzuzufügen. 
 
 15. Wählen Sie im nächsten Menü die Option **Telefonanruf** aus.
 
 16. Füllen Sie den Telefonanruf im Fenster „Schnellerstellung eines Telefonanrufs“ wie folgt aus:
 
-	- **Betreff:** Anfänglicher Qualifikationsanruf – Ihre Initialen  
+    - **:** Anfänglicher Qualifikationsanruf – Ihre Initialen  
 
-	- **Telefonnummer:** 888 555-8855
+    - **Telefonnummer:** 888 555-8855
 
-	- **Richtung:** Ausgehend
+    - **Richtung:** Ausgehend
 
-	- **Beschreibung:** Erstkontakt mit Jean, um die anfängliche Qualifikation zu ermitteln. 
+    - **Beschreibung:** Erstkontakt mit Jean, um die anfängliche Qualifikation zu ermitteln. 
 
-17. Klicken Sie auf die Schaltfläche **Speichern und schließen**.
+17. Wählen Sie **Speichern und schließen** aus.
 
 18. Beachten Sie, dass die Aktivität **Anfänglicher Qualifikationsanruf** auf der **Datensatzzeitachse** angezeigt wird. Bewegen Sie den Mauszeiger über die Aktivität, und wählen Sie die Abschlussaktivität **Häkchensymbol** aus, um den Anruf als abgeschlossen zu markieren. 
 
@@ -140,7 +149,7 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
  
 
-### Aufgabe 2: Lead qualifizieren und zur weiteren Qualifizierung zu einer Verkaufschance konvertieren
+### <a name="task-2-qualify-the-lead-and-convert-to-opportunity-for-further-qualification"></a>Aufgabe 2: Lead qualifizieren und zur weiteren Qualifizierung zu einer Verkaufschance konvertieren
 
 1. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Qualifizieren** aus. 
 
@@ -148,5 +157,5 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 3. Wählen Sie die Phase **Entwickeln** aus, um zur Verkaufschance zurückzukehren.
 
-4. Klicken Sie auf die Schaltfläche **Speichern und schließen**, um den erstellten Verkaufschancendatensatz zu schließen. 
+4. Wählen Sie die Schaltfläche **Speichern und schließen** aus, um den erstellten Verkaufschancendatensatz zu schließen. 
 

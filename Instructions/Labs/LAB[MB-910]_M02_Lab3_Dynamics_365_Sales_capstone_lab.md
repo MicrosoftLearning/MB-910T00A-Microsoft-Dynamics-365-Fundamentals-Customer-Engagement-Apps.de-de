@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Lab 2.3: Dynamics 365 Sales Capstone-Lab'
-    module: 'Modul 2: Mehr über die Grundlagen von Dynamics 365 Sales erfahren'
+  title: 'Lab 2.3: Dynamics 365 Sales Capstone-Lab'
+  module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
+ms.openlocfilehash: fb97a68aa5e115834a5b925b06c7e3831a525a5b
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908869"
 ---
-
-Modul 2: Mehr über die Grundlagen von Dynamics 365 Sales erfahren
+<a name="module-2-learn-the-fundamentals-of-dynamics-365-sales"></a>Modul 2: Grundlegende Informationen zu Dynamics 365 for Sales
 ========================
 
-## Übungs-Lab 2.3 - Dynamics 365 Sales Capstone-Lab
+## <a name="practice-lab-23---dynamics-365-sales-capstone-lab"></a>Übungs-Lab 2.3 - Dynamics 365 Sales Capstone-Lab
 
-## Übungsszenario
+## <a name="lab-scenario"></a>Übungsszenario
 
 Das Unternehmen ABC spezialisiert sich auf die Herstellung, den Vertrieb, die Installation und die Wartung von Sicherheitsausrüstung. Zu den Produkten des Unternehmens gehören Sicherheitskameras für Innen- und Außenbereiche, Feuchtigkeitssensoren, Brandmelder, Überwachungsdienste und mehr. 
 
@@ -37,11 +42,11 @@ Der Installationsprozess für die verkaufte Sicherheitsausrüstung hängt vom Ty
 
 - **Unternehmenskunden:** Installationen in Unternehmen können Monate dauern, und manchmal ist ein Projektmanager erforderlich, um den alltäglichen Betrieb zu koordinieren. Dieser Projektmanager erstellt Projektpläne, definiert Projektteams und plant den Einsatz von Ressourcen. 
 
-**Service und Support:**
+**Kundendienst und Support:**
 
 Im Anschluss an die Installation der Systeme bietet ABC seinen Kunden Supportservices an. Wenn bei einem Kunden ein Problem auftritt, kann er sich an den Kundendienst wenden. Ein Agent wird versuchen, das Problem gemeinsam mit dem Kunden remote zu lösen. Falls das Problem nicht remote gelöst werden kann, eskaliert der Support-Agent das Problem zu einem Arbeitsauftrag, der geplant und von einem qualifizierten Außendiensttechniker bearbeitet wird.  
 
-## Ziele
+## <a name="objectives"></a>Ziele
 
 Sie arbeiten als Vertriebsmitarbeiter für den Privatkundenbereich von ABC. Viele Ihrer Leads stammen zwar aus vom Unternehmen gesponserten Veranstaltungen, Marketingkampagnen und eingekauften Listen, aber Sie erhalten trotzdem häufig direkte Anfragen von Kunden. Wenn Sie eine solche Anfrage erhalten, müssen Sie den Lead manuell eingeben und über den kompletten Vertriebslebenszyklus hinweg bearbeiten. 
 
@@ -61,18 +66,18 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 - Eine Rechnung generieren 
 
-## Übungsaufbau
+## <a name="lab-setup"></a>Lab-Einrichtung
 
   - **Geschätzte Dauer**: 30 Minuten
 
-## Anleitung
+## <a name="instructions"></a>Anweisungen
   
-## Übung 1: Lead in Dynamics 365 Sales erstellen und qualifizieren
+## <a name="exercise-1-create-and-qualify-a-lead-in-dynamics-365-sales"></a>Übung 1: Lead in Dynamics 365 Sales erstellen und qualifizieren
 
 
-### Aufgabe 1: Neuen Lead erstellen
+### <a name="task-1-create-a-new-lead"></a>Aufgabe 1: Neuen Lead erstellen
 
-1. Öffnen Sie einen InPrivate-Browser, und navigieren Sie zu [Https://home.Dynamics.com](https://home.dynamics.com/), falls noch nicht geschehen. 
+1. Öffnen Sie bei Bedarf einen InPrivate-Browser, und navigieren Sie zu [Https://home.Dynamics.com](https://home.dynamics.com/). 
 
 2. Melden Sie sich mit den Benutzeranmeldeinformationen an, die Sie vom Kursleiter erhalten haben, wenn Sie dazu aufgefordert werden. 
 
@@ -88,53 +93,46 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 8. Vervollständigen Sie Ihren neuen Leaddatensatz wie folgt:
 
-	- **Thema:** Auf der Suche nach neuer Sicherheitsausrüstung – „Ihr Name“
+    - **Thema:** Auf der Suche nach neuer Sicherheitsausrüstung – „Ihr Name“
 
-	- **Vorname:** Piper
+    - **Vorname:** Piper
 
-	- **Nachname:** Smith – Ihre Initialen
+    - **Nachname:** Smith – Ihre Initialen
 
-	- **Mobiltelefon:** 888 555-1762
+    - **Mobiltelefon:** 888 555-1762
 
-	- **E-Mail:** piper@sample.com
+    - **E-Mail:** piper@sample.com
 
-	- **Straße 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
-
-	- **Ort:** Seattle
-
-	- **Bundesland/Kanton:** WA
-
-	- **Postleitzahl:** 98001 
 
 9. Wählen Sie die Schaltfläche **Speichern** auf der Befehlsleiste aus, um den neuen Lead zu speichern, und lassen Sie ihn offen.
 
-10. Beachten Sie den Geschäftsprozessflow **Lead für Verkaufschance** am Anfang des Datensatzes. Klicken Sie auf **Phase qualifizieren**, um diese Option auszuwählen. Vervollständigen Sie die Phase wie folgt:
+10. Beachten Sie den Geschäftsprozessflow **Lead für Verkaufschance** am Anfang des Datensatzes. Wählen Sie die Phase **Qualifizieren** aus. Vervollständigen Sie die Phase wie folgt:
 
-	- **Einkaufszeitrahmen**: Dieses Quartal
+    - **Einkaufszeitrahmen:** Dieses Quartal
 
-	- **Geschätztes Budget:** 10.000 
+    - **Geschätztes Budget:** 10.000 
 
-	- **Kaufvorgang:** Individuell
+    - **Kaufvorgang:** Individuell
 
-	- **Entscheidungsträger identifizieren:** Abgeschlossen
+    - **Entscheidungsträger identifizieren:** Abgeschlossen
 
-11. Klicken Sie auf das **X** im Fenster für die Phase, um das Fenster zu schließen. 
+11. Wählen Sie das **X** im Fenster für die Phase aus, um das Fenster zu schließen. 
 
-12. Wechseln Sie zu **Datensatzzeitachse** in der Mitte des Bildschirms, und klicken Sie auf das **Pluszeichensymbol**, um eine neue Aktivität hinzuzufügen. 
+12. Wechseln Sie zur **Datensatzzeitachse** in der Mitte des Bildschirms, und wählen Sie das **Pluszeichensymbol** aus, um eine neue Aktivität hinzuzufügen. 
 
 13. Wählen Sie im nächsten Menü die Option **Telefonanruf** aus.
 
 14. Füllen Sie den Telefonanruf im Fenster „Schnellerstellung eines Telefonanrufs“ wie folgt aus:
 
-	- **Betreff:** Auf der Suche nach neuer Heimsicherheitsausrüstung
+    - **:** Auf der Suche nach neuer Heimsicherheitsausrüstung
 
-	- **Telefonnummer:** 888 555-1762
+    - **Telefonnummer:** 888 555-1762
 
-	- **Richtung:** Eingehend
+    - **Richtung:** Eingehend
 
-	- **Beschreibung:** Nach einigen Einbrüchen in der Nachbarschaft möchte die Kundin ein Sicherheitssystem kaufen. 
+    - **Beschreibung:** Nach einigen Einbrüchen in der Nachbarschaft möchte die Kundin ein Sicherheitssystem kaufen. 
 
-15. Klicken Sie auf die Schaltfläche **Speichern und schließen**.
+15. Wählen Sie **Speichern und schließen** aus.
 
 16. Beachten Sie, dass die Aktivität **Auf der Suche nach neuer Heimsicherheitsausrüstung** auf der **Datensatzzeitachse** angezeigt wird. Bewegen Sie den Mauszeiger über die Aktivität, und wählen Sie die Abschlussaktivität **Häkchensymbol** aus, um den Anruf als abgeschlossen zu markieren. 
 
@@ -146,7 +144,7 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
  
 
-### Aufgabe 2: Lead als Verkaufschance qualifizieren
+### <a name="task-2-qualify-the-lead-as-an-opportunity"></a>Aufgabe 2: Lead als Verkaufschance qualifizieren
 
 Nach einem Besuch bei Piper stellen Sie fest, dass genügend Interesse bei der Kundin besteht, um den Prozess fortzusetzen, und dass Sie der Kundin passende Produkte und Services anbieten können. Als Nächstes qualifizieren Sie den Leaddatensatz. Dabei wird ein zugehöriger Verkaufschancendatensatz erstellt und die nächste Stufe des Verkaufsprozesses „Lead zu Verkaufschance“ erreicht. 
 
@@ -154,31 +152,31 @@ Nach einem Besuch bei Piper stellen Sie fest, dass genügend Interesse bei der K
 
 2. Nachdem das System den Lead qualifiziert hat, wird ein neuer Verkaufschancendatensatz erstellt, und der Geschäftsprozess geht in die Phase **Entwickeln** über. Wählen Sie die Phase **Qualifizieren** aus, um den ursprünglichen Leaddatensatz anzuzeigen. 
 
-3. Wählen Sie die Phase **Entwickeln** aus, um zur Verkaufschance zurückzukehren.
+3. Wählen Sie die Phase **Qualifizieren** aus, um zum Lead zurückzukehren.
 
-4. Klicken Sie auf die Schaltfläche **Speichern und schließen**, um den erstellten Verkaufschancendatensatz zu schließen. 
-
- 
+4. Wählen Sie die Schaltfläche **Speichern und schließen** aus, um den erstellten Leaddatensatz zu schließen. 
 
  
 
-## Übung 2: Verkaufschance in Dynamics 365 Sales verwalten
+ 
+
+## <a name="exercise-2-manage-a-sales-opportunity-in-dynamics-365-sales"></a>Übung 2: Verkaufschance in Dynamics 365 Sales verwalten
 
 Nachdem wir den Lead erfolgreich als Verkaufschance qualifiziert haben, können wir die Verkaufschance über ihren Lebenszyklus hinweg bearbeiten.
 
-### Aufgabe 1: Verkaufschance verwalten und Angebot erstellen 
+### <a name="task-1-manage-a-sales-opportunity--create-a-quote"></a>Aufgabe 1: Verkaufschance verwalten und Angebot erstellen 
 
 1. Wählen Sie **Verkaufschancen** in der Navigation auf der linken Seite des Bildschirms aus. 
 
-2. Wählen Sie den Dropdownpfeil neben der Ansicht **Meine offenen Verkaufschancen** aus, und wählen Sie im nächsten Menü **Offene Verkaufschancen** aus.
+2. Wählen Sie den Dropdownpfeil neben der Ansicht **Meine offenen Verkaufschancen** aus, und wählen Sie im nächsten Menü **Alle Verkaufschancen** aus.
 
-3. Wählen Sie auf der Befehlsleiste die Option „Diagramm anzeigen“ anzeigen aus. Das Diagramm „Die wichtigsten Kunden“ wird anhand der Tabelle „Verkaufschance“ angezeigt. 
+3. Wählen Sie auf der Befehlsleiste die Option „Diagramm anzeigen“ anzeigen aus. Beachten Sie, dass das Diagramm **Die wichtigsten Kunden** auf der Tabelle Verkaufschance basiert. 
 
-4. Wählen Sie den Dropdownpfeil neben „Die wichtigsten Kunden“ aus, und wählen Sie im nächsten Menü die Option **Verkaufspipeline** aus.
+4. Wählen Sie den Dropdownpfeil neben **Die wichtigsten Kunden** aus, und wählen Sie im nächsten Menü **Vertriebspipeline** aus.
 
 5. Wählen Sie die Option zum Qualifizieren im Trichter aus. Die Liste der Verkaufschancen wird angepasst und zeigt jetzt die Verkaufschancen in der Phase „Qualifizieren“ an. 
 
-6. Klicken Sie in den leeren Bereich im Diagramm, um wieder alle offenen Verkaufschancen anzuzeigen. 
+6. Wählen Sie eine beliebige Stelle im leeren Bereich des Diagramms aus, um wieder alle Verkaufschancen anzuzeigen. 
 
 7. Wählen Sie den Dropdownpfeil neben der Ansicht **Offene Verkaufschancen** aus, und wählen Sie im nächsten Menü **Meine offenen Verkaufschancen** aus. Dort wird vermutlich nur das Element **Auf der Suche nach neuer Sicherheitsausrüstung – Ihre Initialen** angezeigt, was sich auch im Diagramm widerspiegelt. 
 
@@ -188,39 +186,39 @@ Nachdem wir den Lead erfolgreich als Verkaufschance qualifiziert haben, können 
 
 10. Wählen Sie unter **Auf der Suche nach neuer Ausrüstung – Ihre Initialen** oben im Datensatz den Pfeil nach unten neben dem Besitzerfeld aus. 
 
-11. Geben Sie die folgenden Daten ein:
+11. Gehen Sie wie folgt weiter vor:
 
-	- **Gesch. Abschlussdatum:** Morgen
+    - **Gesch. Abschlussdatum:** Morgen
 
-	- **Gesch. Umsatz:** 12.500,00
+    - **Gesch. Umsatz:** 12.500,00
 
-12. Wechseln Sie zu **Datensatzzeitachse** in der Mitte des Bildschirms, und klicken Sie auf das **Pluszeichensymbol**, um eine neue Aktivität hinzuzufügen. 
+12. Wechseln Sie zur **Datensatzzeitachse** in der Mitte des Bildschirms, und wählen Sie das **Pluszeichensymbol** aus, um eine neue Aktivität hinzuzufügen. 
 
 13. Wählen Sie im nächsten Menü die Option **Termin** aus.
 
-14. Füllen Sie den Bildschirm **Schnellerfassung: Termin** wie folgt aus:
+14. Füllen Sie den Bildschirm **Schnellerstellung: Termin** wie folgt aus:
 
-	- **Betreff:** Kurze Besprechung – Ihre Initialen
+    - **:** Kurze Besprechung – Ihre Initialen
 
-	- **Ort:** Online
+    - **Standort:** Online
 
-	- **Startzeit**: Morgen um 10:00 Uhr
+    - **Startzeit**: Morgen um 10:00 Uhr
 
-	- **Endzeit:** Morgen um 10:30 Uhr
+    - **Endzeit:** Morgen um 10:30 Uhr
 
-15. Wählen Sie in der Befehlsleiste die Option **Speichern und schließen** aus.
+15. Wählen Sie in der Befehlsleiste **Speichern und schließen** aus.
 
 16. Wählen Sie im Geschäftsprozessflow „Lead zu Verkaufschance“ die Phase **Entwickeln** aus. In dieser Phase müssen Sie Stakeholder und Mitbewerber identifizieren.
 
-17. Klicken Sie auf das **X** im Fenster für die Phase, um Ihre Arbeit fortsetzen zu können. 
+17. Wählen Sie das **X** im Fenster für die Phase aus, um Ihre Arbeit fortsetzen zu können. 
 
 18. Beachten Sie, dass **Piper** im Unterraster **Stakeholder** bereits als Stakeholder definiert ist. 
 
 19. Wählen Sie im Unterraster „Vertriebsteam“ die **vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Neue Verbindung** aus. 
 
-20. Geben Sie im Feld **Suchen** den Text **System** ein, und wählen Sie den Datensatz **Systemadministrator** aus. Klicken Sie dann auf die Schaltfläche **Hinzufügen**. Der Systemadministrator sollte jetzt im Vertriebsteam angezeigt werden. Wählen Sie andernfalls in der Befehlsleiste die Schaltfläche **Aktualisieren** aus. 
+20. Geben Sie im Feld **Suchen** den Text **System** ein, und wählen Sie den Datensatz **Systemadministrator** aus. Wenn Sie fertig sind, wählen Sie die Schaltfläche **Hinzufügen** aus. Der Systemadministrator sollte jetzt im Vertriebsteam angezeigt werden. Wählen Sie andernfalls in der Befehlsleiste die Schaltfläche **Aktualisieren** aus. 
 
-21. Wählen Sie im Unterraster „Mitbewerber“ die **vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Bestehenden Mitbewerber hinzufügen** aus. 
+21. Wählen Sie im Unterraster „Mitbewerber“ die **Vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Bestehenden Mitbewerber hinzufügen** aus. 
 
 22. Wählen Sie im Bildschirm **Datensatz suchen** erst **Neuer Datensatz** und dann **Mitbewerber** aus.
 
@@ -230,17 +228,17 @@ Nachdem wir den Lead erfolgreich als Verkaufschance qualifiziert haben, können 
 
 25. Vergewissern Sie sich, dass der zuvor erstellte Datensatz für „Coho Security“ ausgewählt ist, und wählen Sie die Schaltfläche **Hinzufügen** aus. 
 
-26. Wählen Sie die Phase **Entwickeln** im Geschäftsprozessflow **Lead zu Verkaufschance** aus, und setzen Sie die Schritte **Stakeholder identifizieren** und **Mitbewerber identifizieren** auf **Abgeschlossen**. 
+26. Wählen Sie die Phase **Entwickeln** im Geschäftsprozessflow **Lead zu Verkaufschance** aus, und legen Sie die Schritte **Stakeholder identifizieren** und **Mitbewerber identifizieren** auf **Abgeschlossen** fest. 
 
-27. Klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Vorschlagen** zu gelangen.
+27. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Vorschlagen** zu gelangen.
 
 28. Markieren Sie in der Phase **Vorschlagen** den Punkt **Vertriebsteam identifizieren** als **Abgeschlossen**.
 
-29. Klicken Sie auf das **X** im Fenster für die Phase „Vorschlagen“, um das Fenster zu schließen. 
+29. Wählen Sie das **X** für die Phase „Vorschlagen“ aus, um das Fenster für die Phase zu schließen. 
 
 30. Wählen Sie die Registerkarte **Angebote** im Verkaufschancendatensatz aus. 
 
-31. Klicken Sie im Unterraster „Angebote“ auf die Schaltfläche **Neues Angebot**.
+31. Wählen Sie im Unterraster „Angebote“ die Schaltfläche **Neues Angebot** aus.
 
  
 
@@ -248,19 +246,18 @@ Nachdem wir den Lead erfolgreich als Verkaufschance qualifiziert haben, können 
 
  
 
-### Aufgabe 2: Angebot verwalten
+### <a name="task-2-manage-a-quote"></a>Aufgabe 2: Angebot verwalten
 
 Nachdem Sie ein passendes Angebot haben, können Sie es für die Vorlage beim Kunden vorbereiten. Unter normalen Umständen würden wir Produkte zum Angebotsdatensatz hinzufügen, bevor wir ihn an einen Kunden senden. Da wir in gemeinsam genutzten Umgebungen arbeiten, überspringen wir das Hinzufügen der Angebotspositionen und behandeln stattdessen die Auslieferung des Angebots. 
 
-1. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Angebot aktivieren** aus, um das Angebot zu aktivieren. 
 
-2. Anschließend müssen Sie eine Preisliste auswählen und an die Verkaufschance anfügen.  Wählen Sie unter **Preisliste** im linken Bereich das Suchsymbol aus, und wählen Sie **Standardpreisliste** in den Optionen aus.
+1. Anschließend müssen Sie eine Preisliste auswählen und an die Verkaufschance anfügen.  Wählen Sie unter **Preisliste** im linken Bereich das Suchsymbol aus, und wählen Sie die Option **Office 365 USA (Beispiel)** aus. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Angebot aktivieren** aus, um das Angebot zu aktivieren. 
 
-3. Nachdem das Angebot erstellt wurde, werden wir den Verkaufschancendatensatz mit den neuen Daten aktualisieren. Wählen Sie im Angebotsdatensatz die Verkaufschance **Auf der Suche nach neuer Sicherheitsausrüstung** – **Ihr Name** im Feld **Verkaufschance** unter dem Abschnitt **Verkaufsinformationen** aus. Der Verkaufschancendatensatz sollte auf Ihrem Bildschirm geöffnet werden. 
+2. Nachdem das Angebot erstellt wurde, werden wir den Verkaufschancendatensatz mit den neuen Daten aktualisieren. Wählen Sie im Angebotsdatensatz die Verkaufschance **Auf der Suche nach neuer Sicherheitsausrüstung** – **Ihr Name** im Feld **Verkaufschance** unter dem Abschnitt **Verkaufsinformationen** aus. Der Verkaufschancendatensatz sollte auf Ihrem Bildschirm geöffnet werden. 
 
 3. Wählen Sie im Verkaufschancendatensatz die Phase **Vorschlagen** aus. 
 
-4. die Optionen **Vorschlag entwickeln**, **Interne Prüfung fertigstellen** und **Vorschlag präsentieren** als **Abgeschlossen**, und klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Schließen** zu gelangen. 
+4. Markieren Sie **Vorschlag entwickeln**, **Interne Prüfung fertigstellen** und **Vorschlag präsentieren** als **Abgeschlossen**, und wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Schließen** zu gelangen. 
 
 5. Markieren Sie in der Phase **Schließen** die Schritte **Endgültigen Vorschlag fertigstellen**, **Endgültigen Vorschlag präsentieren**, **Dankesschreiben senden**, und **Nachbesprechung ablegen** als **Abgeschlossen**. 
 
@@ -278,15 +275,15 @@ Nachdem Sie ein passendes Angebot haben, können Sie es für die Vorlage beim Ku
 
 12. Füllen Sie das Fenster „Bestellung erstellen“ wie folgt aus:
 
-	- **Statusgrund:** Gewonnen
+    - **Statusgrund:** Gewonnen
 
-	- **Gewonnen am:** Heutiges Datum
+    - **Gewonnen am:** Heutiges Datum
 
-	- **Verkaufschance abschließen:** Ja
+    - **Verkaufschance abschließen:** Ja
 
-	- **Tatsächlichen Umsatz aus Angeboten berechnen:** Nein
+    - **Tatsächlichen Umsatz aus Angeboten berechnen:** Keine
 
-	- **Tatsächl. Umsatz:** 12.500$
+    - **Tatsächlicher Umsatz:** 12.500 USD
 
 13. Wählen Sie die Schaltfläche **OK** aus. 
 
@@ -294,7 +291,7 @@ Das System erstellt einen neuen Auftrag für den Artikel. Außerdem werden sowoh
 
 ###  
 
-### Aufgabe 3: Auftrag und Rechnung verwalten
+### <a name="task-3-manage-the-order-and-invoice"></a>Aufgabe 3: Auftrag und Rechnung verwalten
 
 Nachdem Sie eine Bestellung erstellt haben, werden wir die Bestellung schließen und eine Reihenfolge generieren. Unter normalen Umständen werden die Produkte aus dem Angebotsdatensatz zur Bestellung hinzugefügt. Da wir in gemeinsam genutzten Umgebungen arbeiten, werden wir den Vorgang so fortsetzen, als wären die Produkte bereits hinzugefügt worden. 
 
@@ -304,12 +301,12 @@ Nachdem Sie eine Bestellung erstellt haben, werden wir die Bestellung schließen
 
 2. Füllen Sie den Bildschirm „Auftrag erfüllen“ wie folgt aus:
 
-	- **Statusgrund:** Abgeschlossen
+    - **Statusgrund:** Abschließen
 
-	- **Erfüllt am:** Heutiges Datum
+    - **Erfüllt am:** Heutiges Datum
 
 3. Wählen Sie die Schaltfläche **Erfüllen** aus. 
 
 4. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Rechnung erstellen** aus. 
 
-5. Warten Sie, bis der Rechnungsdatensatz geöffnet wurde, und wählen Sie **Rechnung bezahlt** aus.
+5. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Rechnung bezahlt** aus. Klicken Sie auf OK.

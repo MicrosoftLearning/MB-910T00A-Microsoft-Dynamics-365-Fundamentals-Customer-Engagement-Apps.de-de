@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Lab 5.2: Projektbasierte Verkaufschance verwalten'
-    module: 'Modul 5: Mehr über die Grundlagen von Dynamics 365 Project Operations erfahren'
+  title: 'Lab 5.2: Projektbasierte Verkaufschance verwalten'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: 8d6402de96013463e0f122c4bb9dc15f35994787
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908822"
 ---
-
-Modul 5: Mehr über die Grundlagen von Dynamics 365 Project Operations erfahren
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Modul 5 Grundlagen von Dynamics 365 Project Operations erlernen
 ========================
 
-## Übungs-Lab 5.2 - Projektbasierte Verkaufschance verwalten
+## <a name="practice-lab-52---manage-a-project-based-opportunity"></a>Übungs-Lab 5.2 - Projektbasierte Verkaufschance verwalten
 
-## Übungsszenario
+## <a name="lab-scenario"></a>Übungsszenario
 
 Das Unternehmen ABC spezialisiert sich auf die Herstellung, den Vertrieb, die Installation und die Wartung von Sicherheitsausrüstung. Zu den Produkten des Unternehmens gehören Sicherheitskameras für Innen- und Außenbereiche, Feuchtigkeitssensoren, Brandmelder, Überwachungsdienste und mehr. 
 
@@ -27,7 +32,7 @@ Intern konzentriert sich das Unternehmen auf zwei Schlüsselbereiche:
 
 - **Unternehmenskunden:** Vertriebsmitarbeiter für Unternehmen konzentrieren sich auf Kunden, die spezielle und maßgeschneiderte Unternehmenslösungen brauchen. Unternehmensverkäufe umfassen oft mehrere Standorte, die miteinander kommunizieren, und oft sind für den Projektabschluss mehrere Ressourcen erforderlich. Diese Vertriebszyklen dauern meistens länger und sind wesentlich komplexer. 
 
-Es ist wichtig, dass die Vertriebsmitarbeiter bei der Interaktion mit ihren Kunden von ABC alle erforderlichen Tools, Ressourcen und Anleitungen zur Verfügung haben, egal mit welchem Segment sie sich befassen. 
+Es ist wichtig, dass die Vertriebsmitarbeiter bei der Interaktion mit ihren Kunden von ABC alle erforderlichen Tools, Ressourcen und Anleitungen zur Verfügung haben, egal mit welchem Segment sie sich befassen.  
 
 **Systeminstallation:**
 
@@ -37,10 +42,10 @@ Der Installationsprozess für die verkaufte Sicherheitsausrüstung hängt vom Ty
 
 - **Unternehmenskunden:** Installationen in Unternehmen können Monate dauern, und manchmal ist ein Projektmanager erforderlich, um den alltäglichen Betrieb zu koordinieren. Dieser Projektmanager erstellt Projektpläne, definiert Projektteams und plant den Einsatz von Ressourcen. 
 
-**Service und Support:**
+**Kundendienst und Support:**
 
 Im Anschluss an die Installation der Systeme bietet ABC seinen Kunden Supportservices an. Wenn bei einem Kunden ein Problem auftritt, kann er sich an den Kundendienst wenden. Ein Agent wird versuchen, das Problem gemeinsam mit dem Kunden remote zu lösen. Falls das Problem nicht remote gelöst werden kann, eskaliert der Support-Agent das Problem zu einem Arbeitsauftrag, der geplant und von einem qualifizierten Außendiensttechniker bearbeitet wird. 
-## Ziele
+## <a name="objectives"></a>Ziele
 
 Die ABC-Vertriebsmitarbeiter für Unternehmen konzentrieren sich auf Kunden, die spezielle und maßgeschneiderte Unternehmenslösungen für ihre Sicherheit brauchen. Daher umfassen Unternehmensverkäufe oft mehrere Standorte, die miteinander kommunizieren, und für den Projektabschluss sind oft mehrere Ressourcen erforderlich. Die Vertriebszyklen für Unternehmensverkäufe dauern bei ABC oft viele Monate dauern, und die Ausführung ist sehr komplex. 
 
@@ -52,15 +57,15 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 - Einen Lead zu einer Projektverkaufschance qualifizieren und konvertieren
 
-## Übungsaufbau
+## <a name="lab-setup"></a>Lab-Einrichtung
 
   - **Geschätzte Dauer**: 20 Minuten
   
-## Übung 1: Projektbasierte Verkaufschance verwalten 
+## <a name="exercise-1-manage-a-project-based-opportunity"></a>Übung 1: Projektbasierte Verkaufschance verwalten 
 
 Nachdem Sie eine Projektverkaufschance auf Basis eines projektbasierten Leads erstellt haben, können Sie die Verkaufschance nutzen, um allgemeine projektbezogene Details zu definieren. In diesem Schritt definieren Sie Produkte und Arbeitselemente sowie vertriebsrelevante Schätzungen. 
 
-### Aufgabe 1: Verkaufschance verwalten 
+### <a name="task-1-manage-a-sales-opportunity"></a>Aufgabe 1: Verkaufschance verwalten 
 
 1. Wählen Sie **Verkaufschancen** in der Navigation auf der linken Seite des Bildschirms aus. 
 
@@ -68,25 +73,25 @@ Nachdem Sie eine Projektverkaufschance auf Basis eines projektbasierten Leads er
 
 3. Wählen Sie unter **Vollständige globale Sicherheitsimplementierung – Ihre Initialen** oben im Datensatz den Pfeil nach unten neben dem Besitzerfeld aus. 
 
-4. Geben Sie die folgenden Daten ein:
+4. Gehen Sie wie folgt weiter vor:
 
-	- **Gesch. Abschlussdatum:** Morgen
+    - **Gesch. Abschlussdatum:** Morgen
 
-	- **Gesch. Umsatz:** 250.000,00
+    - **Gesch. Umsatz:** 250.000,00
 
 5. Wählen Sie im Geschäftsprozessflow „Lead zu Verkaufschance“ die Phase **Entwickeln** aus. In dieser Phase müssen Sie Stakeholder und Mitbewerber identifizieren.
 
-6. Klicken Sie auf das **X** im Fenster für die Phase, um Ihre Arbeit fortsetzen zu können. 
+6. Wählen Sie das **X** im Fenster für die Phase aus, um Ihre Arbeit fortsetzen zu können. 
 
 7. Beachten Sie, dass **Jean** im Unterraster **Stakeholder** bereits als Stakeholder definiert ist. 
 
 8. Wählen Sie im Unterraster „Vertriebsteam“ die Option **Neue Verbindung** aus (Falls die Schaltfläche **Neue Verbindung** nicht angezeigt wird, wählen Sie die **vertikalen Auslassungspunkte** aus, und wählen Sie im nächsten Menü die Option **Neue Verbindung** aus). 
 
-9. Geben Sie im Feld **Suchen** den Text **System** ein, und wählen Sie den **Benutzerdatensatz aus, den Sie vom Kursleiter erhalten haben**. Klicken Sie dann auf die Schaltfläche **Hinzufügen**. Der Systemadministrator sollte jetzt im Vertriebsteam angezeigt werden. Wählen Sie andernfalls in der Befehlsleiste die Schaltfläche **Aktualisieren** aus. 
+9. Geben Sie im Feld **Suchen** den Text **System** ein, und wählen Sie **Systemadministrator** aus. Wenn Sie fertig sind, wählen Sie die Schaltfläche **Hinzufügen** aus. Der Systemadministrator sollte jetzt im Vertriebsteam angezeigt werden. Wählen Sie andernfalls in der Befehlsleiste die Schaltfläche **Aktualisieren** aus. 
 
 10. Wählen Sie im Unterraster „Mitbewerber“ die **Vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Bestehenden Mitbewerber hinzufügen** aus. 
 
-11. Suchen Sie nach **Coho Security**, und wählen Sie den Eintrag aus. (Falls „Coho Security“ nicht existiert, wählen Sie **Neuer Datensatz** und anschließend **Mitbewerber** aus. Fahren Sie andernfalls mit Schritt 15 fort.)  
+11. Suchen Sie nach **Coho Security**, und wählen Sie den Eintrag aus. (Falls „Coho Security“ nicht existiert, wählen Sie **Neuer Datensatz** und anschließend **Mitbewerber** aus. Fahren Sie andernfalls mit Schritt 15 fort **.** )  
 
 12. Geben Sie auf dem Bildschirm Schnellerstellung: **Mitbewerber** im Feld **Name** den Wert **Coho Security – Ihre Initialen** ein.
 
@@ -94,41 +99,41 @@ Nachdem Sie eine Projektverkaufschance auf Basis eines projektbasierten Leads er
 
 14. Wählen Sie den Datensatz für „Coho Security“ aus einer vorherigen Übung aus, und wählen Sie die Schaltfläche **Hinzufügen** aus. 
 
-15. Wählen Sie die Phase **Entwickeln** im Geschäftsprozessflow **Lead zu Verkaufschance** aus, und setzen Sie die Schritte **Stakeholder identifizieren** und **Mitbewerber identifizieren** auf **Abgeschlossen**. 
+15. Wählen Sie die Phase **Entwickeln** im Geschäftsprozessflow **Lead zu Verkaufschance** aus, und legen Sie die Schritte **Stakeholder identifizieren** und **Mitbewerber identifizieren** auf **Abgeschlossen** fest. 
 
-16. Klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Vorschlagen** zu gelangen.
+16. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Vorschlagen** zu gelangen.
 
 17. Markieren Sie in der Phase **Vorschlagen** den Punkt **Vertriebsteam identifizieren** als **Abgeschlossen**.
 
-18. Klicken Sie auf das **X** im Fenster für die Phase „Vorschlagen“, um das Fenster zu schließen. 
+18. Wählen Sie das **X** für die Phase „Vorschlagen“ aus, um das Fenster für die Phase zu schließen. 
 
 19. Wählen Sie im Verkaufschancendatensatz die Registerkarte **Verkaufschancenzeilen** aus.
 
 20. Wählen Sie im Unterraster „Projektbasierte Zeilen“ die Schaltfläche „Neue Verkaufschancenposition hinzufügen“ aus. Konfigurieren Sie die neue Verkaufschancenposition wie folgt:
 
-	- **Produkttyp:** Projektbasierter Service
+    - **Produkttyp:** Projektbasierter Service
 
-	- **Verkaufschance:** Vollständige globale Sicherheitsimplementierung – Ihre Initialen
+    - **Verkaufschance:** Vollständige globale Sicherheitsimplementierung – Ihre Initialen
 
-	- **Name:** Systementwicklung
+    - **Name:** Systementwicklung
 
-	- **Kundenbudget:** 25.000
+    - **Kundenbudget:** 25.000
 
-	- **Abrechnungsmethode:** Festpreis
+    - **Abrechnungsmethode:** Festpreis
 
-21. Wählen Sie **Speichern und Schließen** aus.
+21. Klicken Sie auf **Speichern und schließen**.
 
 22. Wählen Sie im Unterraster **Projektbasierte Zeilen** erneut die Schaltfläche **Neue Verkaufschancenposition hinzufügen** aus, um eine weitere Position hinzuzufügen.   
 Konfigurieren Sie die neue Verkaufschancenposition wie folgt:
 
-	- **Produkttyp:** Projektbasierter Service
+    - **Produkttyp:** Projektbasierter Service
 
-	- **Verkaufschance:** Vollständige globale Sicherheitsimplementierung – Ihre Initialen
+    - **Verkaufschance:** Vollständige globale Sicherheitsimplementierung – Ihre Initialen
 
-	- **Name**: Systemimplementierung 
+    - **Name:** Systemimplementierung 
 
-	- **Kundenbudget:** 100.000 
+    - **Kundenbudget:** 100.000 
 
-	- **Abrechnungsmethode:** Nach Aufwand
+    - **Abrechnungsmethode:** Nach Aufwand
 
-23. Wählen Sie **Speichern und Schließen** aus.
+23. Klicken Sie auf **Speichern und schließen**.

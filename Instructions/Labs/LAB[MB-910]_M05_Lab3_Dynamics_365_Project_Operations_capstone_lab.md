@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Lab 5.3: Dynamics 365 Project Operations Capstone-Lab'
-    module: 'Modul 5: Mehr über die Grundlagen von Dynamics 365 Project Operations erfahren'
+  title: 'Lab 5.3: Dynamics 365 Project Operations Capstone-Lab'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: 29ccc6c69e61b6a2f2da8993e2b5fc29716284e2
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908839"
 ---
-
-Modul 5: Mehr über die Grundlagen von Dynamics 365 Project Operations erfahren
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Modul 5 Grundlagen von Dynamics 365 Project Operations erlernen
 ========================
 
-## Übungs-Lab 5.3 - Dynamics 365 Project Operations Capstone-Lab
+## <a name="practice-lab-53---dynamics-365-project-operations-capstone-lab"></a>Übungs-Lab 5.3 - Dynamics 365 Project Operations Capstone-Lab
 
-## Übungsszenario
+## <a name="lab-scenario"></a>Übungsszenario
 
 Das Unternehmen ABC spezialisiert sich auf die Herstellung, den Vertrieb, die Installation und die Wartung von Sicherheitsausrüstung. Zu den Produkten des Unternehmens gehören Sicherheitskameras für Innen- und Außenbereiche, Feuchtigkeitssensoren, Brandmelder, Überwachungsdienste und mehr. 
 
@@ -37,10 +42,10 @@ Der Installationsprozess für die verkaufte Sicherheitsausrüstung hängt vom Ty
 
 - **Unternehmenskunden:** Installationen in Unternehmen können Monate dauern, und manchmal ist ein Projektmanager erforderlich, um den alltäglichen Betrieb zu koordinieren. Dieser Projektmanager erstellt Projektpläne, definiert Projektteams und plant den Einsatz von Ressourcen. 
 
-**Service und Support:**
+**Kundendienst und Support:**
 
 Im Anschluss an die Installation der Systeme bietet ABC seinen Kunden Supportservices an. Wenn bei einem Kunden ein Problem auftritt, kann er sich an den Kundendienst wenden. Ein Agent wird versuchen, das Problem gemeinsam mit dem Kunden remote zu lösen. Falls das Problem nicht remote gelöst werden kann, eskaliert der Support-Agent das Problem zu einem Arbeitsauftrag, der geplant und von einem qualifizierten Außendiensttechniker bearbeitet wird. 
-## Ziele
+## <a name="objectives"></a>Ziele
 
 Die ABC-Vertriebsmitarbeiter für Unternehmen konzentrieren sich auf Kunden, die spezielle und maßgeschneiderte Unternehmenslösungen für ihre Sicherheit brauchen. Daher umfassen Unternehmensverkäufe oft mehrere Standorte, die miteinander kommunizieren, und für den Projektabschluss sind oft mehrere Ressourcen erforderlich. Die Vertriebszyklen für Unternehmensverkäufe dauern bei ABC oft viele Monate dauern, und die Ausführung ist sehr komplex. 
 
@@ -58,25 +63,25 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 - Projekt erstellen und ein Projektteam definieren 
 
-## Übungsaufbau
+## <a name="lab-setup"></a>Lab-Einrichtung
 
   - **Geschätzte Dauer**: 45 Minuten
 
-## Anleitung
+## <a name="instructions"></a>Anweisungen
 
-## Übung 1: Erstellen eines Projektangebots und einer Projektschätzung
+## <a name="exercise-1-create-a-project-quote--project-estimate"></a>Übung 1: Erstellen eines Projektangebots und einer Projektschätzung
 
 Die Projektverkaufschance wird verwendet, um allgemeine Details über ein potenzielles Projekt zu erfassen. Wenn weitere Details zum Projekt bekannt werden, können Sie ein Projektangebot erstellen. Das Projektangebot enthält oft Details im Zusammenhang mit verschiedenen Rollen, Zeitachsen und Preisen. Das Projektangebot wird dem Kunden vorgelegt. Im Projektangebot können Sie auch damit beginnen, einen Projektplan für das Projekt zu erstellen, das Sie verkaufen. Auf diese Weise können Sie nach dem Verkaufsabschluss Zeit sparen, da viele Details für das Projekt bereits erfasst wurden.
 
 In dieser Übung erstellen Sie ein Projekt und definieren Details für das Projektangebot. 
 
-### Aufgabe 1: Erstellen Sie ein Projektangebot.  
+### <a name="task-1-create-a-project-quote"></a>Aufgabe 1: Erstellen Sie ein Projektangebot.  
 
 1. Wählen Sie in der geöffneten Projektverkaufschance die Registerkarte **Angebote** aus. 
 
-2. Klicken Sie im Unterraster „Angebote“ auf die Schaltfläche **Neues Angebot**.
+2. Wählen Sie im Unterraster „Angebote“ die Schaltfläche **Neues Angebot** aus.
 
-3. Warten Sie, bis das neue Angebot geöffnet wurde. Legen Sie im Feld **Produktpreisliste** im Angebot den Wert **Produkte und gebündelte Services** fest. 
+3. Nachdem der neue Angebotsdatensatz geöffnet wurde, legen Sie im Feld **Produktpreisliste** für das Angebot den Wert **US-Fakturierungsraten** fest. 
 
 4. Wählen Sie die Registerkarte **Angebotszeilen** aus.
 
@@ -86,21 +91,21 @@ In dieser Übung erstellen Sie ein Projekt und definieren Details für das Proje
 
 7. Füllen Sie das Projekt im Bildschirm **Schnellerfassung eines Projekts** wie folgt aus:
 
-	- **Name**: Vollständige globale Implementierung – Ihre Initialen
+    - **Name:** Vollständige globale Implementierung – Ihre Initialen
 
-	- **Projektmanager:** Wählen Sie Ihren Benutzer aus
+    - **Projektmanager:** Wählen Sie Ihren Benutzer aus
 
-	- **Kalendervorlage:** Standardarbeitsvorlage
+    - **Kalendervorlage:** Standardarbeitsvorlage
 
-	- **Vertragseinheit:** Fabrikam US
+    - **Vertragseinheit:** Fabrikam US
 
-	- **Geschätztes Startdatum:** Eine Woche ab heute
+    - **Geschätztes Startdatum:** Eine Woche ab heute
 
-	- **Geschätzte Arbeitskosten:** 175.000 $
+    - **Geschätzte Arbeitskosten:** 175.000 USD
 
-	- **Geschätzte Ausgabenkosten:** 50.000 $
+    - **Geschätzte Ausgabenkosten:** 50.000 USD
 
-	- **Geschätzte Gesamtkosten:** 225.000 $
+    - **Geschätzte Gesamtkosten:** 225.000 USD
 
 8. Wählen Sie die Schaltfläche **Speichern und schließen** aus.
 
@@ -116,23 +121,22 @@ In dieser Übung erstellen Sie ein Projekt und definieren Details für das Proje
 
 14. Füllen Sie das **Detail zur Angebotsposition** wie folgt aus:
 
-	- **Beschreibung:** Kommunikationsleitung verlegen – Ihre Initialen
+    - **Beschreibung:** Kommunikationsleitung verlegen – Ihre Initialen
 
-	- **Transaktionsklasse:** Zeit
+    - **Transaktionsklasse:** Zeit
 
-	- **Rolle:** Netzwerktechniker
+    - **Rolle:** Netzwerktechniker
 
-	- **Kategorie:** Zeit
+    - **Kategorie:** Zeit
 
-	- **Startdatum:** Ein Monat ab heute
+    - **Startdatum:** Ein Monat ab heute
 
-	- **Enddatum:** Zwei Monate ab heute
+    - **Enddatum:** Zwei Monate ab heute
 
-	- **Ressourcenzuordnungseinheit:** Fabrikam US
+    - **Ressourcenzuordnungseinheit:** Fabrikam US
 
-	- **Einheit:** Stunde
+    - **Einheit:** Stunde
 
-	- **Verkaufsbetrag:** 50.000
 
 15. Wählen Sie die Schaltfläche **Speichern und schließen** aus, um das Detailelement für die Position zu schließen. 
 
@@ -142,7 +146,7 @@ In dieser Übung erstellen Sie ein Projekt und definieren Details für das Proje
 **Hinweis:** Lassen Sie das Projektangebot geöffnet, da Sie es in der nächsten Aufgabe verwenden werden. 
 
 
-### Aufgabe 2: Schließen Sie das Projektangebot, und erstellen Sie einen Projektvertrag.
+### <a name="task-2-close-the-project-quote-and-create-a-project-contract"></a>Aufgabe 2: Schließen Sie das Projektangebot, und erstellen Sie einen Projektvertrag.
 
 In dieser Aufgabe schließen Sie das zuvor erstellte Projektangebot und konvertieren es zu einem Projektvertrag. Der Projektvertrag kann anschließend in der Ausführungsphase des Projekts genutzt werden. 
 
@@ -157,14 +161,14 @@ In dieser Aufgabe schließen Sie das zuvor erstellte Projektangebot und konverti
 
 **Hinweis:** Lassen Sie den Projektvertrag geöffnet, da Sie ihn in der nächsten Aufgabe verwenden werden. 
 
-## Übung 2: Projekt verwalten
+## <a name="exercise-2-manage-a-project"></a>Übung 2: Projekt verwalten
 
 Die Projektverkaufsfunktionen in Project Operations bieten den Vorteil, dass Sie das Prozess schon während des Vertriebsprozesses erstellen können. Das erstellte Projekt ist in verschiedenen vertriebsbezogenen Datensätzen verfügbar, z. B. in Projektangeboten und Projektverträgen. 
 
 In dieser Übung verwalten Sie einige der anfänglichen Aufgaben für ein Projekt und definieren Projektdetails, ein Projektteam und einige Projektaufgaben. 
 
 
-### Aufgabe 1: Verwalten Sie grundlegende Projektdaten. 
+### <a name="task-1-manage-basic-project-data"></a>Aufgabe 1: Verwalten Sie grundlegende Projektdaten. 
 
 1. Wählen Sie im geöffneten Projektvertrag **Vollständige globale Sicherheitsimplementierung – Ihre Initialen** die Registerkarte **Zugehörig** aus. 
 
@@ -179,7 +183,7 @@ In dieser Übung verwalten Sie einige der anfänglichen Aufgaben für ein Projek
 6. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Planen** zu gelangen. 
 
  
-### Aufgabe 2: Erstellen Sie ein Projektteam.
+### <a name="task-2-create-a-project-team"></a>Aufgabe 2: Erstellen Sie ein Projektteam.
 
 Jedes Projekt verfügt über ein Team von Mitgliedern, die für die Ausführung des Projekts zuständig sind. In dieser Aufgabe definieren wir die Ressourcen, aus denen die Mitglieder des Projektteams bestehen werden. 
 
@@ -190,36 +194,36 @@ Jedes Projekt verfügt über ein Team von Mitgliedern, die für die Ausführung 
 
 3. Konfigurieren Sie den Eintrag für das Teammitglied wie folgt:
 
-	- **Positionsname:** Robotikexperte – Ihre Initialen
+    - **Positionsname:** Robotikexperte – Ihre Initialen
 
-	- **Buchbare Ressource:** Allison Dickson
+    - **Buchbare Ressource:** Allison Dickson
 
-	- **Rolle:** Robotikexperte
+    - **Rolle:** Robotikexperte
 
 4. Wählen Sie den Pfeil neben der Schaltfläche „Speichern und schließen“ aus. Wählen Sie im nächsten Menü die Option **Speichern und neu erstellen** aus.
 
 5. Konfigurieren Sie den Eintrag für das nächste Teammitglied wie folgt:
 
-	- **Positionsname:** Softwareentwickler – Ihre Initialen
+    - **Positionsname:** Softwareentwickler – Ihre Initialen
 
-	- **Buchbare Ressource:** Bob Kozak
+    - **Buchbare Ressource:** Bob Kozak
 
-	- **Rolle:** Softwareentwickler
+    - **Rolle:** Softwareentwickler
 
 6. Wählen Sie den Pfeil neben der Schaltfläche „Speichern und schließen“ aus. Wählen Sie im nächsten Menü die Option **Speichern und neu erstellen** aus.
 
 7. Konfigurieren Sie den Eintrag für das Teammitglied wie folgt:
 
-	- **Positionsname:** Netzwerktechniker – Ihre Initialen
+    - **Positionsname:** Netzwerktechniker – Ihre Initialen
 
-	- **Buchbare Ressource:** Dianna Woodward
+    - **Buchbare Ressource:** Dianna Woodward
 
-	- **Rolle:** Netzwerktechniker
+    - **Rolle:** Netzwerktechniker
 
 8. Wählen Sie die Schaltfläche **Speichern und schließen** aus.
 
 
-### Aufgabe 3: Definieren Sie einen Projektplan.
+### <a name="task-3-define-a-project-schedule"></a>Aufgabe 3: Definieren Sie einen Projektplan.
 
 Beim Definieren von Projekten ist es auch wichtig, die Projektaufgaben und den Zeitplan für das Projekt zu definieren. In dieser Aufgabe fügen wir Projektaufgaben hinzu und ordnen sie zu unterschiedlichen Rollen zu. 
 
@@ -234,51 +238,51 @@ Beim Definieren von Projekten ist es auch wichtig, die Projektaufgaben und den Z
 
 5. Konfigurieren Sie das Element wie folgt:
 
-	- **Name**: Systemlayout erstellen
+    - **Name:** Systemlayout erstellen
 
-	- **Aufwand:** 25
+    - **Aufwand:** 25
 
 6. Wählen Sie in der Symbolleiste im Unterraster „Zeitplan“ erneut **+ Hinzufügen** aus, um eine weitere Aufgabe hinzuzufügen. 
 
 7. Konfigurieren Sie das Element wie folgt:
 
-	- **Name**: Kameras gestalten
+    - **Name:** Kameras gestalten
 
-	- **Vorherige Aktivität:** Systemlayout erstellen
+    - **Vorherige Aktivität:** Systemlayout erstellen
 
-	- **Aufwand:** 50
+    - **Aufwand:** 50
 
 8. Wählen Sie in der Symbolleiste im Unterraster „Zeitplan“ die Schaltfläche **+ Hinzufügen** aus, um eine letzte Aufgabe hinzuzufügen. 
 
 9. Konfigurieren Sie das Element wie folgt:
 
-	- **Name**: Design prüfen und genehmigen
+    - **Name:** Design prüfen und genehmigen
 
-	- **Vorherige Aktivität:** Kameras gestalten
+    - **Vorherige Aktivität:** Kameras gestalten
 
-	- Aufwand: 8 
+    - Aufwand: 8 
 
  
 **Hinweis:** Lassen Sie die Registerkarte „Zeitplan“ geöffnet, da wir dort in der nächsten Aufgabe weitere Änderungen vornehmen werden. 
 
 
-### Aufgabe 4: Ordnen Sie Ressourcen zu einem Projekt zu.
+### <a name="task-4-associate-resources-with-a-project"></a>Aufgabe 4: Ordnen Sie Ressourcen zu einem Projekt zu.
 
 Beim Definieren des Projektzeitplans können Sie angeben, welche Ressourcen eingesetzt werden, um die Personalanforderungen zu erfüllen. Dabei können Sie entweder tatsächliche benannte Ressourcen oder generische Ressourcen verwenden, die später durch benannte Ressourcen ersetzt werden. In dieser Aufgabe definieren sie sowohl benannte als auch generische Ressourcen für die erstellten Projektaufgaben. 
 
 1. Öffnen Sie ggf. das Projekt **Vollständige globale Sicherheitsimplementierung – Ihre Initialen**, und wählen Sie die Registerkarte **Zeitplan** aus. 
 
-2. Suchen Sie die zuvor erstellte Aufgabe **Systemlayout erstellen**, und klicken Sie auf das Feld **Ressourcen**. 
+2. Suchen Sie die zuvor erstellte Aufgabe **Systemlayout erstellen** im Feld **Ressourcen**, und wählen Sie sie aus. 
 
 3. Wählen Sie im nächsten Menü die Option **Erstellen** aus. 
 
 4. Konfigurieren Sie das Projektteammitglied wie folgt:
 
-	- **Positionsname:** Generischer Robotikexperte – Ihre Initialen
+    - **Positionsname:** Generischer Robotikexperte – Ihre Initialen
 
-	- **Buchbare Ressource:** Generische Ressource
+    - **Buchbare Ressource:** Generische Ressource
 
-	- **Rolle:** Robotikexperte
+    - **Rolle:** Robotikexperte
 
 5. Wählen Sie **Speichern und schließen** aus. 
 
@@ -290,11 +294,11 @@ Beim Definieren des Projektzeitplans können Sie angeben, welche Ressourcen eing
 
 9. Konfigurieren Sie das Projektteammitglied wie folgt:
 
-	- **Positionsname:** Generischer Robotikexperte – Ihre Initialen
+    - **Positionsname:** Generischer Robotikexperte – Ihre Initialen
 
-	- **Buchbare Ressource:** Generische Ressource
+    - **Buchbare Ressource:** Generische Ressource
 
-	- **Rolle:** Robotikexperte
+    - **Rolle:** Robotikexperte
 
 10. Wählen Sie **Speichern und schließen** aus. 
 
