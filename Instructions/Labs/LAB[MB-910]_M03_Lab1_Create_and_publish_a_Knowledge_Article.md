@@ -2,12 +2,12 @@
 lab:
   title: 'Lab 3.1: Knowledge-Artikel in Dynamics 365 Customer Service erstellen und veröffentlichen'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: accc3885619d7949364937badba113de68163ce7
+ms.sourcegitcommit: 20016ceee38b42fe1b81573e65ab9cdb0d17eba2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908911"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "141142000"
 ---
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Modul 3: Grundlegende Informationen zu Dynamics 365 for Customer Service
 ========================
@@ -26,9 +26,9 @@ ms.locfileid: "137908911"
 
 3. Mit dem Dropdownpfeil neben **Meine aktiven Artikel** können Sie jederzeit herausfinden, welche Artikel sich in den einzelnen Phasen befinden. 
 
-4. Wählen Sie die Ansicht **Entwurfsartikel** aus. 
+4. Wählen Sie **Entwurfsartikel** aus. Daraufhin werden vermutlich zwei Artikel im Entwurfsmodus angezeigt.
 
-5. Wählen Sie **Genehmigte Artikel** aus. 
+5. Wählen Sie **Genehmigte Artikel** aus. Mindestens ein genehmigter Artikel sollte angezeigt werden.  
 
 6. Wechseln Sie zurück zu **Meine aktiven Artikel**.
 
@@ -60,9 +60,9 @@ ms.locfileid: "137908911"
 
     5. „Drucken“ auswählen
 
-Sobald wir den zurückgegebenen beschädigten Artikel erhalten haben, wird Ihnen der Betrag gutgeschrieben.
+    Sobald wir den zurückgegebenen beschädigten Artikel erhalten haben, wird Ihnen der Betrag gutgeschrieben.
 
-**HINWEIS:** Sie können den Text bei Bedarf formatieren. 
+    **HINWEIS:** Sie können den Text bei Bedarf formatieren. 
 
 10. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Speichern** aus, um den Knowledge-Artikel zu speichern, und lassen Sie ihn offen. 
 
@@ -115,5 +115,7 @@ Nachdem ein Autor den Datensatz erstellt hat, durchläuft der Datensatz zunächs
     - **Ablaufstatus:** Expired (Abgelaufen)
 
     - **Genehmigte Übersetzungen veröffentlichen:** Keine
+    
+29. Klicken Sie auf die Schaltfläche **Veröffentlichen**, um den Artikel zu veröffentlichen.
 
 
