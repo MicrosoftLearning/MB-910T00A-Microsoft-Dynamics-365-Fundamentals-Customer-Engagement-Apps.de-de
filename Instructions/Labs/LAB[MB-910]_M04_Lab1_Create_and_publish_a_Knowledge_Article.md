@@ -2,17 +2,17 @@
 lab:
   title: 'Lab 4.1: Knowledge-Artikel in Dynamics 365 Customer Service erstellen und veröffentlichen'
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 076c92c7a9b1843a0e0e4b7a03a725cfc3b1d43b
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.openlocfilehash: 2e2c5b6947bb5b366c0daba9d37518981662b28b
+ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404969"
+ms.lasthandoff: 09/06/2022
+ms.locfileid: "147855083"
 ---
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Modul 4 Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
 ========================
 
-## <a name="practice-lab-41---create-and-publish-a-knowlege-article-in-dynamics-365-customer-service"></a>Übungs-Lab 4.1: Erstellen und Veröffentlichen eines Knowledge-Artikels in Dynamics 365 Customer Service
+## <a name="practice-lab-41---create-and-publish-a-knowledge-article-in-dynamics-365-customer-service"></a>Übungs-Lab 4.1: Knowledge-Artikel in Dynamics 365 Customer Service erstellen und veröffentlichen
 
 ## <a name="lab-setup"></a>Lab-Einrichtung
 
@@ -36,7 +36,7 @@ ms.locfileid: "144404969"
 
 8. Warten Sie, bis der neue Datensatz geöffnet wurde, und wählen Sie den Dropdownpfeil neben dem Feld **Statusgrund** im Datensatztitel am oberen Rand aus. Wählen Sie unter **Sprache** die Option **Deutsch – Deutschland** aus.
 
-8. Vervollständigen Sie den Artikel wie folgt:
+9. Vervollständigen Sie den Artikel wie folgt:
 
     - **Titel:** Artikel beschädigt bei Eingang – Ihre Initialen
 
@@ -44,7 +44,7 @@ ms.locfileid: "144404969"
 
     - **Beschreibung:** Hilft bei der Behebung von Problemen, wenn beschädigte Artikel geliefert werden. 
 
-9. Geben Sie den folgenden Text im Inhaltsdesigner ein.   
+10. Geben Sie den folgenden Text im Inhaltsdesigner ein.   
 ‎  
 ‎   Artikel beschädigt geliefert
 
@@ -64,45 +64,45 @@ ms.locfileid: "144404969"
 
     **HINWEIS:** Sie können den Text bei Bedarf formatieren. 
 
-10. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Speichern** aus, um den Knowledge-Artikel zu speichern, und lassen Sie ihn offen. 
+11. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Speichern** aus, um den Knowledge-Artikel zu speichern, und lassen Sie ihn offen. 
 
-11. Wählen Sie unter **Neuer Prozess** die Phase **Autor** aus, und legen Sie im Feld **Artikelthema** den Wert **Lieferung** (unter „Service“) fest. 
+12. Wählen Sie unter **Neuer Prozess** die Phase **Autor** aus, und legen Sie im Feld **Artikelthema** den Wert **Lieferung** (unter „Service“) fest. 
 
-12. Legen Sie das Feld **Zur Prüfung markieren** auf **Abgeschlossen** fest.
+13. Legen Sie das Feld **Zur Prüfung markieren** auf **Abgeschlossen** fest.
 
-13. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Prüfen** zu gelangen.
+14. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Prüfen** zu gelangen.
 
-14. Wählen Sie oben auf der **Befehlsleiste** die Schaltfläche **Speichern und schließen** aus, um Ihre Änderungen zu speichern und den Artikel zu schließen.
+15. Wählen Sie oben auf der **Befehlsleiste** die Schaltfläche **Speichern und schließen** aus, um Ihre Änderungen zu speichern und den Artikel zu schließen.
 
 Nachdem ein Autor den Datensatz erstellt hat, durchläuft der Datensatz zunächst einen Genehmigungsprozess, bevor er live geschaltet wird. Als Nächstes werden wir die Rolle des Genehmigers übernehmen und den Artikel genehmigen. 
 
-15. Wechseln Sie unter „Knowledge-Artikel“ zur Ansicht **Vorgeschlagene Artikel**, um Artikel anzuzeigen, die auf Ihre Genehmigung warten. 
+16. Wechseln Sie unter „Knowledge-Artikel“ zur Ansicht **Vorgeschlagene Artikel**, um Artikel anzuzeigen, die auf Ihre Genehmigung warten. 
 
-16. Öffnen Sie den zuvor erstellten Artikel **Artikel beschädigt bei Eingang – Ihre Initialen**.
+17. Öffnen Sie den zuvor erstellten Artikel **Artikel beschädigt bei Eingang – Ihre Initialen**.
 
-17. Wählen Sie unter **Neuer Prozess** die Phase **Prüfen** aus. Legen Sie das Feld **Prüfen** auf **Abgeschlossen** fest.
+18. Wählen Sie unter **Neuer Prozess** die Phase **Prüfen** aus. Legen Sie das Feld **Prüfen** auf **Abgeschlossen** fest.
 
-18. Wählen Sie **OK** aus, wenn Sie aufgefordert werden, die Genehmigung des Artikels zu bestätigen. 
+19. Wählen Sie **OK** aus, wenn Sie aufgefordert werden, die Genehmigung des Artikels zu bestätigen. 
 
-19. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Veröffentlichen** zu gelangen. 
+20. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Veröffentlichen** zu gelangen. 
 
-20. Wählen Sie oben auf der **Befehlsleiste** am oberen Rand des Artikels die **vertikalen Auslassungspunkte** links in der Befehlsleiste aus. Wählen Sie im nächsten Menü die Option **Produkt verknüpfen** aus. 
+21. Wählen Sie oben auf der **Befehlsleiste** am oberen Rand des Artikels die **vertikalen Auslassungspunkte** links in der Befehlsleiste aus. Wählen Sie im nächsten Menü die Option **Produkt verknüpfen** aus. 
 
-21. Wählen Sie im Fenster **Produkt verknüpfen** die Option **Office 365 für Unternehmen (Beispiel)** aus.
+22. Wählen Sie im Fenster **Produkt verknüpfen** die Option **Office 365 für Unternehmen (Beispiel)** aus.
 
-22. Klicken Sie auf die Schaltfläche **Zuordnen**. 
+23. Klicken Sie auf die Schaltfläche **Zuordnen**. 
 
-23. Wählen Sie unter **Neuer Prozess** die Phase **Veröffentlichen** aus. 
+24. Wählen Sie unter **Neuer Prozess** die Phase **Veröffentlichen** aus. 
 
-24. Legen Sie für **Produktzuordnungen festlegen** den Wert **Abgeschlossen** fest. 
+25. Legen Sie für **Produktzuordnungen festlegen** den Wert **Abgeschlossen** fest. 
 
-25. Legen Sie das **Ablaufdatum** auf **heute in einem Jahr um 00:00 Uhr** fest. 
+26. Legen Sie das **Ablaufdatum** auf **heute in einem Jahr um 00:00 Uhr** fest. 
 
-26. Wählen Sie die Schaltfläche **Fertig stellen** aus, um den Prozess abzuschließen. 
+27. Wählen Sie die Schaltfläche **Fertig stellen** aus, um den Prozess abzuschließen. 
 
-27. Wählen Sie auf der **Befehlsleiste** für den Artikel die Schaltfläche **Veröffentlichen** aus. 
+28. Wählen Sie auf der **Befehlsleiste** für den Artikel die Schaltfläche **Veröffentlichen** aus. 
 
-28. Vergewissern sie sich, dass die folgenden Einstellungen ausgewählt sind:
+29. Vergewissern sie sich, dass die folgenden Einstellungen ausgewählt sind:
 
     - **Veröffentlichen:** Jetzt
 
@@ -116,6 +116,6 @@ Nachdem ein Autor den Datensatz erstellt hat, durchläuft der Datensatz zunächs
 
     - **Genehmigte Übersetzungen veröffentlichen:** Keine
     
-29. Klicken Sie auf die Schaltfläche **Veröffentlichen**, um den Artikel zu veröffentlichen.
+30. Klicken Sie auf die Schaltfläche **Veröffentlichen**, um den Artikel zu veröffentlichen.
 
 
