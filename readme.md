@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: b7161fffeda5bdcda6a44519d19a2085bfd43066
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908846"
----
 # <a name="inf99x-sample-course"></a>INF99X: Beispielkurs
 
 - **[Laden Sie das aktuelle Kursteilnehmerhandbuch und alle Dateiinhalte herunter.](../../releases/latest)**
