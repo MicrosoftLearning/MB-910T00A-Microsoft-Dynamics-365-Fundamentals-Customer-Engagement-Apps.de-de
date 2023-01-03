@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Lab 3.2: Verkaufschance in Dynamics 365 Sales erstellen und verwalten'
+  title: "Lab\_3.2: Verkaufschance in Dynamics 365 Sales erstellen und verwalten"
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 9ca894a3eeccfdabb5a7fab3a2adc59751f174d8
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405013"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>Modul 3: Mehr über die Grundlagen von Dynamics 365 Sales erfahren
 ========================
 
@@ -71,19 +66,19 @@ In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startb
 
 12. Beachten Sie, dass Suzanne Burke im Unterraster „Stakeholder“ bereits als Stakeholder definiert ist. 
 
-13. Wählen Sie im Unterraster „Vertriebsteam“ die **vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Neue Verbindung** aus. 
+13. Wählen Sie im Unterraster „Vertriebsteam“ die Option **Neue Verbindung** aus Hinweis: Unterraster reagieren, wenn nicht genügend Platz auf dem Bildschirm vorhanden ist. Die Schaltfläche befindet sich im Menü **Vertikale Auslassungspunkte**.
 
 14. Suchen Sie nach Ihrem Benutzerdatensatz, und wählen Sie ihn aus. Wenn Sie fertig sind, wählen Sie die Schaltfläche **Hinzufügen** aus. 
 
-15. Wählen Sie im Unterraster „Mitbewerber“ die **Vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Bestehenden Mitbewerber hinzufügen** aus. 
+15. Wählen Sie im Unterraster Competitor (Mitbewerber) erneut **Add Existing Competitor** (Mitbewerber hinzufügen) aus. Hinweis: Unterraster reagieren, wenn nicht genügend Platz auf dem Bildschirm vorhanden ist. Die Schaltfläche befindet sich im Menü **Vertikale Auslassungspunkte**.
 
 16. Wählen Sie im Bildschirm **Datensatz suchen** erst **Neuer Datensatz** und dann **Mitbewerber** aus.
 
-17. Geben Sie auf dem Bildschirm **Schnellfassung für Mitbewerber** den **Namen** **Fabrikam** ein.
+17. Legen Sie auf dem Bildschirm **Quick Create Competitor** (Schnellfassung für Mitbewerber) das Feld **Name** auf **Coho Technologies – Ihre Initialen** fest.
 
 18. Wählen Sie **Speichern und schließen** aus.
 
-19. **Coho Technologies** sollte im Suchdatensatzfenster ausgewählt werden. Wählen Sie die Schaltfläche **Hinzufügen** aus, um den Mitbewerber hinzuzufügen. 
+19. **Coho Technologies – Ihre Initialen** sollte im Suchdatensatzfenster ausgewählt werden. Wählen Sie die Schaltfläche **Hinzufügen** aus, um den Mitbewerber hinzuzufügen. 
 
 20. Wählen Sie die Phase **Entwickeln** im Geschäftsprozessflow **Lead zu Verkaufschance** aus, und legen Sie die Schritte **Stakeholder identifizieren** und **Mitbewerber identifizieren** auf **Abgeschlossen** fest. 
 

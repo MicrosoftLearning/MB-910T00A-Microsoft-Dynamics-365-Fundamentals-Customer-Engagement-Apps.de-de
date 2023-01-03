@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Lab 4.1: Knowledge-Artikel in Dynamics 365 Customer Service erstellen und veröffentlichen'
+  title: "Lab\_4.1: Knowledge-Artikel in Dynamics 365 Customer Service erstellen und veröffentlichen"
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 2e2c5b6947bb5b366c0daba9d37518981662b28b
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855083"
 ---
+
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Modul 4 Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
 ========================
 
@@ -22,13 +17,13 @@ ms.locfileid: "147855083"
 
 1. Öffnen Sie die **Dynamics 365 Customer Service Hub**-Anwendung, falls noch nicht geschehen. 
 
-2. Wählen Sie **Knowledge-Artikel** in der Navigation auf der linken Seite des Bildschirms aus. 
+2. Wählen Sie im Abschnitt **Wissen** im linken Menü die **Knowledge-Artikel** aus. 
 
-3. Mit dem Dropdownpfeil neben **Meine aktiven Artikel** können Sie jederzeit herausfinden, welche Artikel sich in den einzelnen Phasen befinden. 
+3. Mit dem Dropdownpfeil neben **Meine aktiven Artikel** können Sie jederzeit herausfinden, welche Artikel sich in den einzelnen Phasen befinden. Beachten Sie, dass möglicherweise keine aktiven Artikel in der Liste enthalten sind.
 
 4. Wählen Sie **Entwurfsartikel** aus. 
 
-5. Wählen Sie **Genehmigte Artikel** aus. Mindestens ein genehmigter Artikel sollte angezeigt werden.  
+5. Wählen Sie **Genehmigte Artikel** aus. 
 
 6. Wechseln Sie zurück zu **Meine aktiven Artikel**.
 
@@ -66,7 +61,7 @@ ms.locfileid: "147855083"
 
 11. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Speichern** aus, um den Knowledge-Artikel zu speichern, und lassen Sie ihn offen. 
 
-12. Wählen Sie unter **Neuer Prozess** die Phase **Autor** aus, und legen Sie im Feld **Artikelthema** den Wert **Lieferung** (unter „Service“) fest. 
+12. Wählen Sie unter **Neuer Prozess** die Phase **Autor** aus, und legen Sie im Feld **Artikelthema** den Wert **Standardthema** fest. 
 
 13. Legen Sie das Feld **Zur Prüfung markieren** auf **Abgeschlossen** fest.
 
@@ -88,7 +83,7 @@ Nachdem ein Autor den Datensatz erstellt hat, durchläuft der Datensatz zunächs
 
 21. Wählen Sie oben auf der **Befehlsleiste** am oberen Rand des Artikels die **vertikalen Auslassungspunkte** links in der Befehlsleiste aus. Wählen Sie im nächsten Menü die Option **Produkt verknüpfen** aus. 
 
-22. Wählen Sie im Fenster **Produkt verknüpfen** die Option **Office 365 für Unternehmen (Beispiel)** aus.
+22. Wählen Sie im Formular **Produkt verknüpfen** unter **Produkt zum Zuordnen auswählen** die Option **Office 365** aus.
 
 23. Klicken Sie auf die Schaltfläche **Zuordnen**. 
 
@@ -100,22 +95,14 @@ Nachdem ein Autor den Datensatz erstellt hat, durchläuft der Datensatz zunächs
 
 27. Wählen Sie die Schaltfläche **Fertig stellen** aus, um den Prozess abzuschließen. 
 
-28. Wählen Sie auf der **Befehlsleiste** für den Artikel die Schaltfläche **Veröffentlichen** aus. 
-
-29. Vergewissern sie sich, dass die folgenden Einstellungen ausgewählt sind:
+28. Vergewissern Sie sich, dass im Formular **Veröffentlichen** Folgendes ausgewählt ist:
 
     - **Veröffentlichen:** Jetzt
 
     - **Veröffentlichungsstatus:** Veröffentlicht
 
     - **Ablaufdatum:** Heute in einem Jahr um 00:00 Uhr
-
-    - **Ablaufzustand:** Expired (Abgelaufen)
-
-    - **Ablaufstatus:** Expired (Abgelaufen)
-
-    - **Genehmigte Übersetzungen veröffentlichen:** Keine
     
-30. Klicken Sie auf die Schaltfläche **Veröffentlichen**, um den Artikel zu veröffentlichen.
+29. Klicken Sie auf die Schaltfläche **Veröffentlichen**, um den Artikel zu veröffentlichen.
 
-
+>[!Note] Es kann einige Minuten dauern, bis veröffentlichte Knowledge-Artikel in der **Wissenssuche** angezeigt werden.
