@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Lab 1.2: Kunden und Aktivitäten verwalten'
+  title: "Lab\_1.2: Kunden und Aktivitäten verwalten"
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: 886e0800f6747542fcd83ade072fb312ad922de4
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404962"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>Modul 1: Untersuchen der Kernfunktionen von Dynamics 365 (CRM)
 ========================
 
@@ -28,7 +23,7 @@ In dieser Übung arbeiten Sie mit allgemeinen Datensätzen, die von allen Dynami
 
 1. Öffnen Sie die **Dynamics 365 Sales Hub**-Anwendung, falls noch nicht geschehen. 
 
-2. Wählen Sie **Firmen** in der Navigation auf der linken Seite des Bildschirms aus. 
+2. Wählen Sie im linken Menü im Abschnitt **Kunden** die Option **Konten** aus. 
 
 3. Wählen Sie am oberen Bildschirmrand auf der Befehlsleiste die Schaltfläche **Neu** aus.
 
@@ -68,9 +63,9 @@ In dieser Übung arbeiten Sie mit allgemeinen Datensätzen, die von allen Dynami
 
 9. Wählen Sie die Schaltfläche **Speichern** aus, um das Konto zu speichern, und lassen Sie es geöffnet. 
 
-10. Suchen Sie das **Unterraster Kontakte** auf der rechten Seite des Bildschirms. 
+10. Suchen Sie das Unterraster Kontakte auf der rechten Seite des Bildschirms.
 
-11. Wählen Sie die **vertikalen Auslassungspunkte** aus, und wählen Sie im neu geöffneten Menü die Option **Neuer Kontakt** aus. 
+11. Wählen Sie die **vertikalen Auslassungspunkte** aus, und wählen Sie im neu geöffneten Menü die Option **Neuer Kontakt** aus.
 
 12. Vervollständigen Sie den Kontakt im Formular **Schnellerfassung für Kontakt** wie folgt
 
@@ -90,7 +85,7 @@ In dieser Übung arbeiten Sie mit allgemeinen Datensätzen, die von allen Dynami
 
 16. Wählen Sie im nächsten Menü die Option **Termin** aus.
 
-17. Vervollständigen Sie den Termin wie folgt:
+17. Füllen Sie das Formular **Schnellerstellung: Termin** wie folgt aus:
 
     - **:** Besprechung mit Jackson
 
@@ -98,16 +93,14 @@ In dieser Übung arbeiten Sie mit allgemeinen Datensätzen, die von allen Dynami
 
     - **Endzeit:** Morgen um 11:00 Uhr 
 
-18. Wählen Sie **Speichern und schließen** aus. 
+18. Wählen Sie **Speichern und schließen** aus.      
 
-19. Drücken Sie auf der Tastatur die **F5**-TASTE, um den Bildschirm zu aktualisieren.     
+19. Wählen Sie auf der Zeitachse des Datensatzes die Option **Mehr anzeigen** im Datensatz **Termin** aus, um weitere Details anzuzeigen.   
 
-20. Wählen Sie auf der Zeitachse des Datensatzes den **Termin** aus, um die Details anzuzeigen.   
+20. Klicken Sie auf die Schaltfläche **Datensatz öffnen**. 
 
-21. Wählen Sie den Link **Termin öffnen** aus. 
+21. Wählen Sie im geöffneten Termindatensatz auf der **Befehlsleiste** die Schaltfläche **Als erledigt markieren** aus, um den Termin abzuschließen. 
 
-22. Wählen Sie im geöffneten Termindatensatz auf der **Befehlsleiste** die Schaltfläche **Als erledigt markieren** aus, um den Termin abzuschließen. 
+22. Wählen Sie **Speichern und schließen** aus, um zum Firmendatensatz zurückzukehren.   
 
-23. Wählen Sie **Speichern und schließen** aus, um zum Firmendatensatz zurückzukehren.   
-
-24. Wählen Sie **Speichern und schließen** im Firmendatensatz aus, um den Firmendatensatz zu verlassen.   
+23. Wählen Sie **Speichern und schließen** im Firmendatensatz aus, um den Firmendatensatz zu verlassen.   

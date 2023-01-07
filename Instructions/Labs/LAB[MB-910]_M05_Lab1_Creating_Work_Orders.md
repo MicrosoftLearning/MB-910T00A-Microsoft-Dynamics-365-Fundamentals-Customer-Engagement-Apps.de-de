@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Lab 5.1: Arbeitsaufträge in Dynamics 365 Field Service erstellen'
+  title: "Lab\_5.1: Arbeitsaufträge in Dynamics 365 Field Service erstellen"
   module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: fa0e8af72df342a72267895d9318ce3f625633b5
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405012"
 ---
+
 <a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>Modul 5 Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 ========================
 
@@ -20,7 +15,7 @@ ms.locfileid: "144405012"
 
 ## <a name="instructions"></a>Anweisungen
 
-1. Wählen Sie links im Navigationsbereich die Option **Arbeitsaufträge** aus.
+1. Öffnen Sie die **Dynamics 365 Field Service**-Anwendung, falls noch nicht geschehen. Wählen Sie im linken Menü im Abschnitt **Planung** die Option **Arbeitsaufträge** aus.
 
 2. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Neu** aus, um einen neuen Arbeitsauftrag zu erstellen.
 

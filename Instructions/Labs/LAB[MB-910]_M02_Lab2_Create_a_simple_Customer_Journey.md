@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Lab 2.2: Einen einfachen Kundenkontaktverlauf erstellen'
+  title: "Lab\_2.2: Einen einfachen Kundenkontaktverlauf erstellen"
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 6c9f21f684590ff84fa77cc19e70555c2e8c00be
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404988"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Modul 2: Mehr über die Grundlagen von Dynamics 365 Marketing erfahren
 ========================
 
@@ -30,11 +25,12 @@ In dieser Übung werden Sie sehen, dass Kundenkontaktverläufe eine Schlüsselko
 
 1. Öffnen Sie die Dynamics 365 Marketing-Anwendung, falls noch nicht geschehen. 
 
-2. Wählen Sie links im Navigationsbereich unter der Gruppe „Marketing“ die Option **Marketing-E-Mail** aus.
+2. Ändern Sie über die Navigation auf der linken Seite den Bereich in **Outbound-Marketing**, und wählen Sie **Marketing-E-Mails** unter der Gruppe „Marketingausführung“ aus.
 
 3. Suchen Sie die Marketing-E-Mail **Präsentation von Stühlen**, und öffnen Sie sie.  
 
-4. Wählen Sie oben auf der **Befehlsleiste** die Schaltfläche **Live schalten** aus. 
+4. Wenn die E-Mail **Introduction to Chairs** bereits **live** ist, fahren Sie mit dem nächsten Schritt fort. 
+   Wählen Sie andernfalls oben in der **Befehlsleiste** die Schaltfläche **Live schalten** aus. 
 
 5. Nachdem Sie die E-Mail live geschaltet haben, wählen Sie links im Navigationsbereich unter der Gruppe „Marketing“ die Option **Kundenkontaktverläufe** aus.
 
@@ -50,7 +46,7 @@ In dieser Übung werden Sie sehen, dass Kundenkontaktverläufe eine Schlüsselko
 
 11. Wählen Sie die Registerkarte **Allgemein** am oberen Rand des Kundenkontaktverlauf-Datensatzes aus. Geben Sie die folgenden Informationen auf der Registerkarte **Allgemein** ein.
 
-    - **Name:** Redmond Customer Journey
+    - **Name:** Redmond Customer Journey – Ihre Initialen
 
     - **Startdatum und -zeit**: Geben Sie das heutige Datum ein.
 
