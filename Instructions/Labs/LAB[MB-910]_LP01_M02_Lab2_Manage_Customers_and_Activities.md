@@ -2,7 +2,7 @@
 lab:
   title: "Lernpfad\_1 – Lab\_1.2: Verwalten von Kunden und Aktivitäten"
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
-  module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
+  module: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ---
 
 Lernpfad 2 – Modul 2: Beschreiben gemeinsamer Aktivitäten und Integrationsoptionen in Dynamics 365-Kundenbindungs-Apps
@@ -30,11 +30,11 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
 4. Vervollständigen Sie den Firmendatensatz wie folgt:
 
-    - **Kontoname:** Contoso Corporate
+    - **Kontoname:** Contoso Corporate (Ihre Initialen)
 
-    - **Telefonnummer:** 888-555-1234
+    - **Telefon:** 888-555-1234 (Ihre Initialen)
 
-    - **Adresse 1, Straße 1:** 191 181<sup data-htmlnode="">st</sup> Ave N
+    - **Adresse 1 Straße 1:** 191 181<sup data-htmlnode="">st</sup> Ave N (Ihre Initialen)
 
     - **Adresse 1: Ort:** Seattle
 
@@ -48,11 +48,11 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
 7. Vervollständigen Sie den Firmendatensatz wie folgt:
 
-    - **Kontoname:**  Contoso North America
+    - **Kontoname:** Contoso North America (Ihre Initialen)
 
-    - **Telefonnummer:** 888-555-4321
+    - **Telefon:** 888-555-4321 (Ihre Initialen)
 
-    - **Adresse 1, Straße 1**: 187 11<sup data-htmlnode="">th</sup> ST N
+    - **Adresse 1, Straße 1**: 187 11<sup data-htmlnode="">th</sup> ST N (Ihre Initialen)
 
     - **Adresse 1: Ort:** Chicago
 
@@ -72,11 +72,11 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
     - **Vorname:** Jackson
 
-    - **Nachname**: Anderson
+    - **Nachname**: Anderson (Ihre Initialen)
 
     - **Position:** CEO
 
-    - **E-Mail-Adresse**: [Jackson@contososample.com](mailto:Jackson@contososample.com)
+    - **E-Mail:** [Jackson (Ihre Initialen)@contososample.com](mailto:Jackson@contososample.com)
 
 13. Wählen Sie **Speichern und schließen** aus.
 
@@ -88,7 +88,7 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
 17. Vervollständigen Sie den Termin wie folgt:
 
-    - **:** Besprechung mit Jackson
+    - **Betreff:** Treffen mit Jackson (Ihre Initialen)
 
     - **Startzeit**: Morgen um 10:00 Uhr
 
