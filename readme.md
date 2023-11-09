@@ -1,4 +1,4 @@
-# MB-910T00A: Microsoft Dynamics 365 Fundamentals – Kundenbindungs-Apps
+# MB-910T00A: Microsoft Dynamics 365-Grundlagen (CRM)
 
 - **[Laden Sie das aktuelle Kursteilnehmerhandbuch und alle Dateiinhalte herunter.](https://learningdownloadcenter.microsoft.com/)**
 - **Sind Sie ein MCT?** – Lesen Sie unser [GitHub-Benutzerhandbuch für MCTs](https://microsoftlearning.github.io/MCT-User-Guide/).
