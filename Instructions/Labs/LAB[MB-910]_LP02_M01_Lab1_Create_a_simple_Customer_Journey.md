@@ -1,20 +1,20 @@
 ---
 lab:
   title: "Lernpfad\_2 – Lab\_2.1: Erstellen eines einfachen Kundenkontaktverlaufs"
-  learning path: Explore the fundamentals of Dynamics 365 Marketing
-  module: Explore Dynamics 365 Marketing
+  learning path: Explore the fundamentals of Dynamics 365 Customer Insights
+  module: Explore Dynamics 365 Customer Insights
 ---
 
-Lernpfad 2 – Modul 1: Erkunden von Dynamics 365 Marketing
+Lernpfad 2 – Modul 1: Erkunden von Dynamics 365 Customer Insights
 ========================
 
 ## Übungs-Lab 2.1: Erstellen eines einfachen Kundenkontaktverlaufs
 
-**WICHTIG**: Stellen Sie als Kursleiter*in sicher, dass Sie alle Einrichtungsschritte abgeschlossen haben, die im Abschnitt Dynamics 365 Marketing des Leitfadens für die Trainervorbereitung definiert sind, um sicherzustellen, dass Ihre Lernenden dieses Lab ordnungsgemäß abschließen können.   
+**WICHTIG**: Stellen Sie als Kursleiter*in sicher, dass Sie alle Setupschritte abgeschlossen haben, die im Abschnitt „Dynamics 365 Customer Insights – Journeys“ des Leitfadens für die Trainervorbereitung definiert sind, um sicherzustellen, dass Ihre Lernenden dieses Lab ordnungsgemäß abschließen können.   
 
 ## Ziele
 
-In dieser Übung werden Sie sehen, dass Kundenkontaktverläufe eine Schlüsselkomponente in Dynamics 365 Marketing sind. Sie erstellen Kundenkontaktverläufe als Grundlage für alle Marketinganstrengungen, um den Pfad eines Kunden bei der Interaktion mit dem Marketingprozess Ihres Unternehmens zu bestimmen. Das Ziel eines Kontaktverlaufs ist, dass wir diesen in Einnahmen umwandeln. 
+In dieser Übung werden Sie sehen, dass Kundenkontaktverläufe eine Schlüsselkomponente in Dynamics 365 Customer Insights – Journeys sind. Sie erstellen Kundenkontaktverläufe als Grundlage für alle Marketinganstrengungen, um den Pfad eines Kunden bei der Interaktion mit dem Marketingprozess Ihres Unternehmens zu bestimmen. Das Ziel eines Kontaktverlaufs ist, dass wir diesen in Einnahmen umwandeln. 
 
 ## Lab-Einrichtung
 
