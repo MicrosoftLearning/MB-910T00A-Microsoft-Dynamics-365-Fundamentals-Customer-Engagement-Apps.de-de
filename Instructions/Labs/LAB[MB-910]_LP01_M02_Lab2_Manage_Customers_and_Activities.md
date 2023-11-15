@@ -38,13 +38,13 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
     - **Adresse 1: Ort:** Seattle
 
-    - **Adresse 1: Bundesland/Kanton:** WA
+    - **Adresse 1 Bundesland/ Kanton**: WA
 
-    - **Adresse 1: Postleitzahl:** 98101
+    - **Adresse 1 PLZ**: 98101
 
-5. Wählen Sie oben auf der Befehlsleiste die Schaltfläche **Speichern und schließen** aus, um den Firmendatensatz zu speichern und zu schließen.
+5. Wählen Sie auf der Befehlsleiste die Schaltfläche **Speichern** aus, um den Kontodatensatz zu speichern und zu verlassen.
 
-6. Wählen Sie auf der Befehlsleiste in der Liste der Konten erneut die Schaltfläche **Neu** aus.
+6. Wählen Sie auf der Befehlsleiste aus der Kontenliste erneut die Schaltfläche **Neu** aus.
 
 7. Vervollständigen Sie den Firmendatensatz wie folgt:
 
@@ -56,7 +56,7 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
     - **Adresse 1: Ort:** Chicago
 
-    - **Adresse 1: Bundesland/Kanton:** BY
+    - **Adresse 1 Bundesland/ Kanton**: IL
 
     - **Adresse 1: Postleitzahl:** 60176
 
@@ -68,7 +68,7 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
 11. Wählen Sie die **vertikalen Auslassungspunkte** aus, und wählen Sie im neu geöffneten Menü die Option **Neuer Kontakt** aus.
 
-12. Vervollständigen Sie den Kontakt im Formular **Schnellerfassung für Kontakt** wie folgt:
+12. Vervollständigen Sie mithilfe des Formulars **Schnellerfassung: Kontakt** den Kontakt folgendermaßen:
 
     - **Vorname:** Jackson
 
@@ -80,7 +80,7 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
 13. Wählen Sie **Speichern und schließen** aus.
 
-14. Wählen Sie über dem Unterraster Kontakt das Feld **Hauptkontaktperson** aus, und wählen Sie dort den Kontakt **Jackson Anderson** aus, den Sie soeben erstellt haben.
+14. Wählen Sie direkt über dem Kontakt-Unterraster das Feld **Primärkontakt** aus, und stellen Sie es auf den Kontakt **Jackson Anderson** ein, den Sie gerade erstellt haben.
 
 15. Wählen Sie in der **Datensatzzeitachse** in der Mitte des Bildschirms das **Pluszeichen** aus, um ein neues Element hinzuzufügen.
 
@@ -92,13 +92,13 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
     - **Startzeit**: Morgen um 10:00 Uhr
 
-    - **Endzeit:** Morgen um 11:00 Uhr
+    - **Endzeit**: Morgen um 11:00 Uhr
 
 18. Wählen Sie **Speichern und schließen** aus.
 
 19. **Speichern und schließen** Sie die Firma.
 
-20. Klicken Sie auf den **Termin**, um ihn auszuwählen und Details anzuzeigen.
+20. Klicken Sie auf **Termin**, um die Details dazu anzeigen.
 
 21. Wählen Sie den Link **Termin öffnen** aus.
 
