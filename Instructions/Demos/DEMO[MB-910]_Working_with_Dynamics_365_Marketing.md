@@ -26,13 +26,13 @@ Mit Dynamics 365 Customer Insights erhält Ihre Organisation volle Kontrolle ü
 
     - Besprechen Sie die Bedingungen und Aktionen
 
-- Kundenkontaktverläufe verwalten  
+- Kundenkontaktverläufe verwalten 
 
-    - Öffnen Sie die Kundenkontaktverläufe und führen Sie das Öffnen eines vorhandenen Kundenkontaktverlaufs vor  
+    - Öffnen Sie die Kundenkontaktverläufe und führen Sie das Öffnen eines vorhandenen Kundenkontaktverlaufs vor 
 
     - Zeigen Sie Details eines Kundenkontaktverlaufs an.
 
-    - Heben Sie das verwendete Kundensegment hervor.  
+    - Heben Sie das verwendete Kundensegment hervor. 
 
     - Öffnen Sie den Kundenkontaktverlauf-Designer
 
@@ -46,13 +46,13 @@ Mit Dynamics 365 Customer Insights erhält Ihre Organisation volle Kontrolle ü
 
 - Anhand der Journey, die Sie erstellt haben, erhalten die Kunden ein gezieltes Marketingerlebnis, je nachdem, um wen es sich handelt und welchen Pfad der Kunde bei der Interaktion mit den Marketinginhalten Ihrer Organisation auswählt. 
 
-    - Wechseln Sie zu einer Kunden-Persona, und öffnen Sie eine die an den Kunden verschickte vordefinierte Marketing-E-Mail.   Erklären Sie schrittweise, wie die einzelnen Inhalte in der E-Mail genutzt werden können.  
+    - Wechseln Sie zu einer Kunden-Persona, und öffnen Sie eine die an den Kunden verschickte vordefinierte Marketing-E-Mail. Erklären Sie schrittweise, wie die einzelnen Inhalte in der E-Mail genutzt werden können. 
 
-    - Klicken Sie auf einen Link in der E-Mail, und navigieren Sie auf der Webseite, zu der Sie weitergeleitet werden.  
+    - Klicken Sie auf einen Link in der E-Mail, und navigieren Sie auf der Webseite, zu der Sie weitergeleitet werden. 
 
-    - Interagieren Sie mit den Inhalten auf der Seite, und wählen Sie einen Link aus.  
+    - Interagieren Sie mit den Inhalten auf der Seite, und wählen Sie einen Link aus. 
 
-- Navigieren Sie zurück zum Kundenkontaktverlauf, und demonstrieren Sie, wie die Daten nachverfolgt und die Berichterstellungsinformationen bereitgestellt werden.  
+- Navigieren Sie zurück zum Kundenkontaktverlauf, und demonstrieren Sie, wie die Daten nachverfolgt und die Berichterstellungsinformationen bereitgestellt werden. 
 
 2. Ereignisse im Ereignisverwaltungsportal verwalten und für die Teilnahme registrieren
 
