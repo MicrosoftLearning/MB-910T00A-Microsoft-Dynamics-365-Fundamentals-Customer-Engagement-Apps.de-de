@@ -10,7 +10,7 @@ Lernpfad 2 – Modul 1: Erkunden von Dynamics 365 Customer Insights
 
 ## Übungs-Lab 2.1: Erstellen eines einfachen Kundenkontaktverlaufs
 
-**WICHTIG**: Stellen Sie als Kursleiter*in sicher, dass Sie alle Setupschritte abgeschlossen haben, die im Abschnitt „Dynamics 365 Customer Insights – Journeys“ des Leitfadens für die Trainervorbereitung definiert sind, um sicherzustellen, dass Ihre Lernenden dieses Lab ordnungsgemäß abschließen können.   
+**WICHTIG:** Kursleiter*innen: Stellen Sie sicher, dass Sie alle Setupschritte abgeschlossen haben, die im Abschnitt „Dynamics 365 Customer Insights – Journeys“ des Leitfadens für die Trainervorbereitung definiert sind, um sicherzustellen, dass Ihre Lernenden dieses Lab ordnungsgemäß abschließen können.   
 
 ## Ziele
 

@@ -45,7 +45,7 @@ Während dieser Übung erstellen Sie manuell einen Lead für Jane Anderson. Jane
 
     - **Straße 1**: 1987 191st Ave N
 
-    - **Ort**: Fargo
+    - **Stadt**: Fargo
 
     - **Bundesland/Kanton**: ND
 
@@ -55,7 +55,7 @@ Während dieser Übung erstellen Sie manuell einen Lead für Jane Anderson. Jane
 
 6. Gehen Sie wie folgt weiter vor:
 
-    - **Einkaufszeitrahmen**: Sofort
+    - **Kaufzeitrahmen**: Sofort
 
     - **Geschätztes Budget**: 50.000 USD 
 
@@ -93,7 +93,7 @@ Während dieser Übung erstellen Sie manuell einen Lead für Jane Anderson. Jane
 
 18. **Coho Technologies** sollte im Suchdatensatzfenster ausgewählt werden. Klicken Sie auf die Schaltfläche **Hinzufügen**, um das Hinzufügen des Mitbewerbers abzuschließen.
 
-19. Wählen Sie im Geschäftsprozessflow **Lead zu Verkaufschance** die Phase **Entwickeln** aus. 
+19. Wählen Sie unter Geschäftsprozessflow **Lead zu Verkaufschance** die Phase **Entwickeln** aus. 
 
 20. Gehen Sie wie folgt weiter vor: 
 
