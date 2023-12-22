@@ -8,7 +8,7 @@ lab:
 Lernpfad 2 – Modul 2: Beschreiben gemeinsamer Aktivitäten und Integrationsoptionen in Dynamics 365-Kundenbindungs-Apps
 ========================
 
-## Übungs-Lab 1.2: Verwalten von Kunden und Aktivitäten
+## Übungs-Lab 1.2: Verwalten von Kund*innen und Aktivitäten
 
 ## Ziele
 
@@ -42,7 +42,7 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
     - **Adresse 1 PLZ**: 98101
 
-5. Wählen Sie auf der Befehlsleiste die Schaltfläche **Speichern** aus, um den Kontodatensatz zu speichern und zu verlassen.
+5. Wählen Sie auf der Befehlsleiste die Schaltfläche **Speichern und schließen** aus, um den Kontodatensatz zu speichern und zu verlassen.
 
 6. Wählen Sie auf der Befehlsleiste aus der Kontenliste erneut die Schaltfläche **Neu** aus.
 
