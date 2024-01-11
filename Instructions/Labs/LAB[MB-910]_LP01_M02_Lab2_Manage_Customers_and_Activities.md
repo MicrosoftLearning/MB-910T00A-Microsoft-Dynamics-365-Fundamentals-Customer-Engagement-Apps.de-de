@@ -90,9 +90,9 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
     - **Betreff:** Treffen mit Jackson (Ihre Initialen)
 
-    - **Startzeit**: Morgen um 10:00 Uhr
+    - **Startzeit:** Heute um 16:00 Uhr
 
-    - **Endzeit**: Morgen um 11:00 Uhr
+    - **Endzeit:** Heute um 16:30 Uhr
 
 18. Wählen Sie **Speichern und schließen** aus.
 
