@@ -2,10 +2,10 @@
 lab:
   title: "Lernpfad\_2 – Lab\_2.1: Erstellen eines einfachen Kundenkontaktverlaufs"
   learning path: Explore the fundamentals of Dynamics 365 Customer Insights
-  module: Explore Dynamics 365 Customer Insights
+  module: Explore Dynamics 365 Customer Insights - Journeys
 ---
 
-Lernpfad 2 – Modul 1: Erkunden von Dynamics 365 Customer Insights
+Lernpfad 2 – Modul 1: Erkunden von Dynamics 365 Customer Insights – Journeys
 ========================
 
 ## Übungs-Lab 2.1: Erstellen eines einfachen Kundenkontaktverlaufs
@@ -21,28 +21,32 @@ In dieser Übung werden Sie sehen, dass Kundenkontaktverläufe eine Schlüsselko
   - **Geschätzte Dauer**: 10 Minuten
 
 ## Anweisungen
-1. Wählen Sie links im Navigationsbereich unter der Gruppe **Marketing** die Option **Kundenkontaktverläufe** aus.
+1. Wählen Sie links im Navigationsbereich unter der Gruppe **Bindung** die Option **Journeys** aus.
 
-2. Wählen Sie auf der Befehlsleiste die Option **+ Neu** aus.
+1. Wählen Sie in der Befehlsleiste die Option **+ Neue Journey** aus.
 
-3. Wählen Sie im Popupfenster **Vorlagen für Kundenkontaktverlauf** die Option **Überspringen** aus, um mit der Erstellung eines ganz neuen Kundenkontaktverlaufs zu beginnen.
-4. Wählen Sie **Zielgruppe festlegen** (oder alternativ **+** ). Vergewissern Sie sich, dass der **Quelltyp** auf **Segment** festgelegt ist, und wählen Sie das Segment **Kontakte in Fargo** aus. Die erste Kachel wird mit dem Segmentnamen ausgefüllt, und im Bereich **Zielgruppe** werden die Segmenteigenschaften angezeigt.
+1. Wählen Sie **Überspringen und Ohne Vorlage erstellen** aus.
 
-5. Wählen Sie **+** auf der Canvas aus, und wählen Sie dann **E-Mail senden** im Kontextmenü aus.
+1. Wählen Sie im Popupfenster **Journey mit Copilot erstellen** die Optionen **Überspringen** und **Ohne Vorlage erstellen** aus.
 
-6. Wählen Sie im Abschnitt zum **Senden einer E-Mail** die Option **Beispiel-E-Mail** aus.
+1. Geben Sie im Feld „Journey benennen“ die Bezeichnung „Customer Journey Fargo“ (Ihre Initialen) ein. 
 
-7. Wählen Sie die Registerkarte „Allgemein“ am oberen Rand des Kundenkontaktverlauf-Datensatzes aus. Geben Sie die folgenden Informationen auf der Registerkarte **Allgemein** ein.
+1. Legen Sie unter „Typ der Journey auswählen“ die Option „Segmentbasiert“ fest, und wählen Sie das Segment **Kontakte in Fargo** aus. Die erste Kachel wird mit dem Segmentnamen ausgefüllt, und im Bereich **Zielgruppe** werden die Segmenteigenschaften angezeigt.
 
-    - **Name**: Kundenkontaktverlauf in Fargo (Ihre Initialen) 
+1. Wählen Sie unter **Häufigkeit auswählen** die Option **Einmalige Journey mit statischer Zielgruppe** aus.
 
-    - **Startdatum und -zeit**: Geben Sie das heutige Datum ein.
+1. Legen Sie das **Startdatum** auf das **morgige Datum** fest.
 
-    - **Enddatum und -zeit**: Ein Monat ab heute
+1. Wählen Sie die Schaltfläche **Erstellen**.
 
-    - **Zeitzone**: Wählen Sie Ihre lokale Zeitzone aus.
+1. Wählen Sie die Schaltfläche **Aktion hinzufügen** aus.
 
-8. Wählen Sie in der Befehlsleiste **Speichern** aus, um Ihren aktuellen Arbeitsfortschritt zu speichern.
+1. Wählen Sie im angezeigten Menü die Option **E-Mail** aus.
 
-9. Ihr Kontaktverlauf ist jetzt startklar. Um den Kontaktverlauf zu starten, veröffentlichen Sie ihn, indem Sie in der Befehlsleiste die Option **Live schalten** auswählen.
+1. Legen Sie im Bereich „E-Mail-Eigenschaften“ auf der rechten Seite folgende Konfigurationen fest:
 
+    - **E-Mail-Adresse auswählen:** E-Mail 
+
+    - **Senden an:** E-Mail
+
+1. Der Verlauf kann nun verwendet werden. Um den Kontaktverlauf zu starten, veröffentlichen Sie ihn, indem Sie in der Befehlsleiste die Option **Live schalten** auswählen.
