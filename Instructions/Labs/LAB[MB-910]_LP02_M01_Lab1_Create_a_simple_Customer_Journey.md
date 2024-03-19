@@ -25,7 +25,7 @@ In dieser Übung werden Sie sehen, dass Kundenkontaktverläufe eine Schlüsselko
 
 1. Wählen Sie in der Befehlsleiste die Option **+ Neue Journey** aus.
 
-1. Wählen Sie **Überspringen und Ohne Vorlage erstellen** aus.
+1. Wählen Sie **Überspringen und ohne Vorlage erstellen** aus.
 
 1. Wählen Sie im Popupfenster **Journey mit Copilot erstellen** die Optionen **Überspringen** und **Ohne Vorlage erstellen** aus.
 
