@@ -12,7 +12,7 @@ Lernpfad 2 – Modul 2: Beschreiben gemeinsamer Aktivitäten und Integrationso
 
 ## Ziele
 
-In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Kundenbindungs-Apps von Erstanbietern verwendet werden. 
+In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Customer Engagement-Apps von Erstanbietern verwendet werden. 
 
 ## Lab-Einrichtung
 
@@ -24,11 +24,11 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
 1. Öffnen Sie die Anwendung **Dynamics 365 Sales Hub**, falls sie noch nicht geöffnet ist.
 
-2. Wählen Sie **Firmen** in der Navigation auf der linken Seite des Bildschirms aus.
+1. Wählen Sie **Firmen** in der Navigation auf der linken Seite des Bildschirms aus.
 
-3. Wählen Sie auf der Befehlsleiste die Schaltfläche **Neu** aus.
+1. Wählen Sie auf der Befehlsleiste die Schaltfläche **Neu** aus.
 
-4. Vervollständigen Sie den Firmendatensatz wie folgt:
+1. Vervollständigen Sie den Firmendatensatz wie folgt:
 
     - **Kontoname:** Contoso Corporate (Ihre Initialen)
 
@@ -42,11 +42,11 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
     - **Adresse 1 PLZ**: 98101
 
-5. Wählen Sie auf der Befehlsleiste die Schaltfläche **Speichern und schließen** aus, um den Kontodatensatz zu speichern und zu verlassen.
+1. Wählen Sie auf der Befehlsleiste die Schaltfläche **Speichern und schließen** aus, um den Kontodatensatz zu speichern und zu verlassen.
 
-6. Wählen Sie auf der Befehlsleiste aus der Kontenliste erneut die Schaltfläche **Neu** aus.
+1. Wählen Sie auf der Befehlsleiste aus der Kontenliste erneut die Schaltfläche **Neu** aus.
 
-7. Vervollständigen Sie den Firmendatensatz wie folgt:
+1. Vervollständigen Sie den Firmendatensatz wie folgt:
 
     - **Kontoname:** Contoso North America (Ihre Initialen)
 
@@ -60,15 +60,15 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
     - **Adresse 1: Postleitzahl:** 60176
 
-8. Wählen Sie das Feld **Übergeordnete Firma** neben der Firma **Contoso Corporate** aus, die Sie zuvor erstellt haben.
+1. Wählen Sie das Feld **Übergeordnete Firma** neben der Firma **Contoso Corporate** aus, die Sie zuvor erstellt haben.
 
-9. Klicken Sie auf die Schaltfläche **Speichern**, um das Konto zu speichern, und lassen Sie es geöffnet.
+1. Klicken Sie auf die Schaltfläche **Speichern**, um das Konto zu speichern, und lassen Sie es geöffnet.
 
-10. Suchen Sie das **Unterraster Kontakte** auf der rechten Seite des Bildschirms.
+1. Suchen Sie das **Unterraster Kontakte** auf der rechten Seite des Bildschirms.
 
-11. Wählen Sie die **vertikalen Auslassungspunkte** aus, und wählen Sie im neu geöffneten Menü die Option **Neuer Kontakt** aus.
+1. Wählen Sie die **vertikalen Auslassungspunkte** aus, und wählen Sie im neu geöffneten Menü die Option **Neuer Kontakt** aus.
 
-12. Vervollständigen Sie mithilfe des Formulars **Schnellerfassung: Kontakt** den Kontakt folgendermaßen:
+1. Vervollständigen Sie mithilfe des Formulars **Schnellerfassung: Kontakt** den Kontakt folgendermaßen:
 
     - **Vorname:** Jackson
 
@@ -78,15 +78,15 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
     - **E-Mail:** [Jackson (Ihre Initialen)@contososample.com](mailto:Jackson@contososample.com)
 
-13. Wählen Sie **Speichern und schließen** aus.
+1. Wählen Sie **Speichern und schließen** aus.
 
-14. Wählen Sie direkt über dem Kontakt-Unterraster das Feld **Primärkontakt** aus, und stellen Sie es auf den Kontakt **Jackson Anderson** ein, den Sie gerade erstellt haben.
+1. Wählen Sie direkt über dem Kontakt-Unterraster das Feld **Primärkontakt** aus, und stellen Sie es auf den Kontakt **Jackson Anderson** ein, den Sie gerade erstellt haben.
 
-15. Wählen Sie in der **Datensatzzeitachse** in der Mitte des Bildschirms das **Pluszeichen** aus, um ein neues Element hinzuzufügen.
+1. Wählen Sie in der **Datensatzzeitachse** in der Mitte des Bildschirms das **Pluszeichen** aus, um ein neues Element hinzuzufügen.
 
-16. Wählen Sie im angezeigten Menü die Option **Besprechung** aus.
+1. Wählen Sie im angezeigten Menü die Option **Besprechung** aus.
 
-17. Vervollständigen Sie den Termin wie folgt:
+1. Vervollständigen Sie den Termin wie folgt:
 
     - **Betreff:** Treffen mit Jackson (Ihre Initialen)
 
@@ -94,16 +94,16 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Ku
 
     - **Endzeit:** Heute um 16:30 Uhr
 
-18. Wählen Sie **Speichern und schließen** aus.
+1. Wählen Sie **Speichern und schließen** aus.
 
-19. **Speichern und schließen** Sie die Firma.
+1. **Speichern und schließen** Sie die Firma.
 
-20. Klicken Sie auf **Termin**, um die Details dazu anzeigen.
+1. Klicken Sie auf **Termin**, um die Details dazu anzeigen.
 
-21. Wählen Sie den Link **Termin öffnen** aus.
+1. Wählen Sie den Link **Datensatz öffnen** aus.
 
-22. Wählen Sie im geöffneten Termindatensatz in der **Befehlsleiste** die Schaltfläche **Als erledigt markieren** aus, um den Termin abzuschließen.
+1. Wählen Sie im geöffneten Termindatensatz in der **Befehlsleiste** die Schaltfläche **Als erledigt markieren** aus, um den Termin abzuschließen.
 
-23. Wählen Sie **Speichern und schließen** aus, um zum Firmendatensatz zurückzukehren.
+1. Wählen Sie **Speichern und schließen** aus, um zum Firmendatensatz zurückzukehren.
 
-24. Wählen Sie **Speichern und schließen** im Firmendatensatz aus, um den Firmendatensatz zu verlassen.
+1. Wählen Sie **Speichern und schließen** im Firmendatensatz aus, um den Firmendatensatz zu verlassen.

@@ -23,9 +23,9 @@ Während dieser Übung erstellen Sie manuell einen Lead für Jane Anderson. Jane
 
 1. Öffnen Sie die **Dynamics 365 Sales Hub**-Anwendung, falls noch nicht geschehen.
 
-2. Wählen Sie über die Navigation auf der linken Seite des Bildschirms **Leads** aus. 
+2. Wählen Sie über die Navigation auf der linken Seite des Bildschirms **Leads** aus.
 
-3. Wählen Sie in der Ansicht **Meine offenen Leads** die Schaltfläche **Neu** aus, um einen neuen Lead zu erstellen. 
+3. Wählen Sie in der Ansicht **Meine offenen Leads** die Schaltfläche **Neu** aus, um einen neuen Lead zu erstellen.
 
 4. Geben Sie folgende Informationen zum **Lead** ein:
 
@@ -51,67 +51,68 @@ Während dieser Übung erstellen Sie manuell einen Lead für Jane Anderson. Jane
 
     - **Postleitzahl**: 58102
 
-5. Wählen Sie im Vertriebsprozess **Lead für Verkaufschance** die Phase **Qualifizieren** aus.
+5. Wählen Sie die Schaltfläche **Speichern** aus, um den Lead zu speichern, und lassen Sie die Seite offen.
 
-6. Gehen Sie wie folgt weiter vor:
+6. Wählen Sie im Vertriebsprozess **Lead für Verkaufschance** die Phase **Qualifizieren** aus.
+
+7. Gehen Sie wie folgt weiter vor:
 
     - **Kaufzeitrahmen**: Sofort
 
-    - **Geschätztes Budget**: 50.000 USD 
+    - **Geschätztes Budget**: 50.000 USD
 
     - **Kaufvorgang:** Komitee
 
-7. Schließen Sie das Fly-Out der **Qualifikationsphase** . 
+8. Schließen Sie das Fly-Out der **Qualifikationsphase** .
 
-8.  Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Qualifizieren** aus. 
+9. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Qualifizieren** aus.
 
-    **Hinweis:** Wenn die Schaltfläche Qualifizieren nicht angezeigt wird, wählen Sie die Schaltfläche **Weitere Befehle** aus (die drei vertikalen Punkte). 
+    > **Hinweis:** Wenn die Schaltfläche Qualifizieren nicht angezeigt wird, wählen Sie die Schaltfläche **Weitere Befehle** aus (die drei vertikalen Punkte).
 
-    Das System schließt den Datensatz **Lead** und erstellt einen neuen Datensatz **Verkaufschance**. Beachten Sie, dass der Geschäftsprozessflow **Lead zu Verkaufschance** automatisch in die Phase **Entwickeln** weitergegeben wurde. 
+    Das System schließt den Datensatz **Lead** und erstellt einen neuen Datensatz **Verkaufschance**. Beachten Sie, dass der Geschäftsprozessflow **Lead zu Verkaufschance** automatisch in die Phase **Entwickeln** weitergegeben wurde.
 
-9. Wählen Sie unter **Kopfzeile der Verkaufschance** oben im Datensatz den Abwärtspfeil neben dem Feld **Besitzer** aus. 
+10. Wählen Sie unter **Kopfzeile der Verkaufschance** oben im Datensatz den Abwärtspfeil neben dem Feld **Besitzer** aus.
 
-10. Gehen Sie wie folgt weiter vor:
+11. Gehen Sie wie folgt weiter vor:
 
     - **Gesch. Abschlussdatum:** Zwei Tage ab heute
 
     - **Gesch. Umsatz**: 50.000 USD
-    
-11. Beachten Sie im Unterraster **Stakeholder**, dass **Jane Anderson** (Ihre Initialen) bereits als Stakeholder definiert ist. 
 
-12. Wählen Sie im Unterraster **Vertriebsteam** die **vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Neue Verbindung** aus. 
+12. Beachten Sie im Unterraster **Stakeholder**, dass **Jane Anderson** (Ihre Initialen) bereits als Stakeholder definiert ist.
 
-13. Suchen Sie nach Ihrem Benutzerdatensatz, und wählen Sie ihn aus. Wenn Sie fertig sind, wählen Sie die Schaltfläche **Hinzufügen** aus. 
+13. Wählen Sie im Unterraster **Vertriebsteam** die **vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Neue Verbindung** aus.
 
-14. Wählen Sie im Unterraster **Mitbewerber** die **vertikalen Auslassungspunkte** aus (drei untereinander angeordnete Punkte). Wählen Sie im nächsten Menü **Bestehenden Mitbewerber hinzufügen** aus. 
+14. Suchen Sie nach Ihrem Benutzerdatensatz, und wählen Sie ihn aus. Wenn Sie fertig sind, wählen Sie die Schaltfläche **Hinzufügen** aus.
 
-15. Wählen Sie im Bildschirm **Datensatz suchen** erst **Neuer Datensatz** und dann **Mitbewerber** aus.
+15. Wählen Sie im Unterraster **Mitbewerber** die **vertikalen Auslassungspunkte** aus (drei untereinander angeordnete Punkte). Wählen Sie im nächsten Menü **Bestehenden Mitbewerber hinzufügen** aus.
 
-16. Legen Sie auf im Formular **Schnellerfassung für Mitbewerber** das Feld **Name** auf **Coho Technologies (Ihre Initialen)** fest.
+16. Wählen Sie im Bildschirm **Datensatz suchen** erst **Neuer Datensatz** und dann **Mitbewerber** aus.
 
-17. Wählen Sie **Speichern und schließen** aus.
+17. Legen Sie auf im Formular **Schnellerfassung für Mitbewerber** das Feld **Name** auf **Coho Technologies (Ihre Initialen)** fest.
 
-18. **Coho Technologies** sollte im Suchdatensatzfenster ausgewählt werden. Klicken Sie auf die Schaltfläche **Hinzufügen**, um das Hinzufügen des Mitbewerbers abzuschließen.
+18. Wählen Sie **Speichern und schließen** aus.
 
-19. Wählen Sie unter Geschäftsprozessflow **Lead zu Verkaufschance** die Phase **Entwickeln** aus. 
+19. **Coho Technologies** sollte im Suchdatensatzfenster ausgewählt werden. Klicken Sie auf die Schaltfläche **Hinzufügen**, um das Hinzufügen des Mitbewerbers abzuschließen.
 
-20. Gehen Sie wie folgt weiter vor: 
+20. Wählen Sie unter Geschäftsprozessflow **Lead zu Verkaufschance** die Phase **Entwickeln** aus.
 
-    - **Stakeholder identifizieren**: Abgeschlossen 
+21. Gehen Sie wie folgt weiter vor:
 
-    - **Mitbewerber identifizieren**: Abgeschlossen 
+    - **Stakeholder identifizieren**: Abgeschlossen
 
-21. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Vorschlagen** zu gelangen. 
+    - **Mitbewerber identifizieren**: Abgeschlossen
 
-22. Markieren Sie in der Phase **Vorschlagen** alle vier Aufgaben als **abgeschlossen**. Wählen Sie **Nächste Phase** aus.
+22. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Vorschlagen** zu gelangen.
 
-23. Markieren Sie in der Phase **Abschließen** alle Aufgaben als **abgeschlossen**. 
+23. Markieren Sie in der Phase **Vorschlagen** alle vier Aufgaben als **abgeschlossen**. Wählen Sie **Nächste Phase** aus.
 
-24. Wählen Sie im Geschäftsprozessflow die Schaltfläche **Fertigstellen** aus. 
+24. Markieren Sie in der Phase **Abschließen** alle Aufgaben als **abgeschlossen**.
 
-    Nachdem Sie den Geschäftsprozess abgeschlossen haben, müssen Sie die Verkaufschance schließen.
+25. Wählen Sie im Geschäftsprozessflow die Schaltfläche **Fertigstellen** aus.
 
-25. Wählen Sie auf der **Befehlsleiste** der Verkaufschance die Schaltfläche **Als „Gewonnen“ schließen** aus.
+Nachdem Sie den Geschäftsprozess abgeschlossen haben, müssen Sie die Verkaufschance schließen.
 
-26. Wählen Sie im Dialogfeld **Verkaufschance abschließen** die Schaltfläche **OK** aus, um das Abschließen der Verkaufschance fertigzustellen. 
+26. Wählen Sie auf der **Befehlsleiste** der Verkaufschance die Schaltfläche **Als „Gewonnen“ schließen** aus.
 
+27. Wählen Sie im Dialogfeld **Verkaufschance abschließen** die Schaltfläche **OK** aus, um das Abschließen der Verkaufschance fertigzustellen.

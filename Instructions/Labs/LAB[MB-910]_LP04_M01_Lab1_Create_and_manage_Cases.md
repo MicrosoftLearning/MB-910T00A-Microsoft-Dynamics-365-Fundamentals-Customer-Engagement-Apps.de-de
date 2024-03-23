@@ -26,7 +26,7 @@ Lernpfad 4 – Modul 1: Erkunden von Dynamics 365 Customer Service
 
     - **Titel des Falls**: Artikel beschädigt geliefert (Ihre Initialen)
 
-    - **Kunde**: George Li
+    - **Kunde:** George Cao
 
 5.  Wählen Sie die Schaltfläche **Speichern** aus, um den Datensatz zu speichern, und lassen Sie ihn geöffnet. 
 
@@ -44,7 +44,7 @@ Lernpfad 4 – Modul 1: Erkunden von Dynamics 365 Customer Service
 
 12. Wählen Sie das **X** im Fenster für die Phase **Recherche** aus, um Ihre Arbeit fortsetzen zu können. 
 
-13. Wählen Sie auf der **Zeitachse** das vertikale Menü **Hauptaktionen** in der zuvor erstellten Aktivität **Telefonanruf** aus. Wählen Sie **Aktivität schließen** aus, um die Aktivität abzuschließen. 
+13. Wählen Sie auf der **Zeitachse** die zuvor erstellte **Telefonanrufaktivität** aus. Wählen Sie **Aktivität schließen** aus, um die Aktivität abzuschließen. 
 
 14. Wählen Sie im Bildschirm **Telefonanruf schließen** die Schaltfläche **Telefonanruf schließen** aus. 
 
